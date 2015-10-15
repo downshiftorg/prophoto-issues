@@ -1,2 +1,3 @@
-# prophoto6-beta
-Public issue tracking for ProPhoto 6
+# Public issue tracking for ProPhoto 6
+
+See open issues here: https://github.com/netrivet/prophoto-issues/issues

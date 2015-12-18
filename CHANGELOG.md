@@ -4,6 +4,19 @@
 
 Includes various fixes and enhancements
 
+* Temporarily prevent reordering rows between blocks to prevent data corruption
+* Fixed bug causing post title font styles to not apply to pages
+* Don't show background image options when no image uploaded
+* Fixed a bug that could cause grid images to not appear
+* Fixed rendering of some input box comments in the content customizations area
+* Fixed a bug that could cause some comments to have transparent text color
+* Refactored main design query to prevent $wpdb memory errors
+
+
+#### 6.0.0-beta5
+
+Includes various fixes and enhancements
+
 * Fixed a bug where some body classes were missing
 * Fixed a bug where the WordPress media uploader was not spawning in the Gallery post editor
 * Fixed a modal height issue with Firefox. The widget modal should be the correct height now and scroll

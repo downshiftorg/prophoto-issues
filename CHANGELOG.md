@@ -1,6 +1,6 @@
 # Changelog
 
-#### 6.0.0-beta5
+#### 6.0.0-beta6
 
 Includes various fixes and enhancements
 

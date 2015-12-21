@@ -1,5 +1,19 @@
 # Changelog
 
+#### 6.0.0-beta7
+
+Two new features, plus various enhancements and bugfixes
+
+* New feature: set block height to viewport height
+* New feature: set background sizing to "cover" or "contain"
+* Prevent customizer WP Admin button from returning to front
+* Give truncated grid excerpts elipses
+* Fix ajax error when saving unchanged grid
+* Fix errors and unsightliness caused by gallery shortcodes leaking into grid excerpts
+* Fix bug where select post/page grids would not render more than 5 items
+* Fix srcset errors when uploading images with spaces in filename
+
+
 #### 6.0.0-beta6
 
 Includes various fixes and enhancements

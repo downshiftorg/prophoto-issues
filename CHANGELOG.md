@@ -4,8 +4,8 @@
 
 Two new features, plus various enhancements and bugfixes
 
-* New feature: set block height to viewport height
-* New feature: set background sizing to "cover" or "contain"
+* *New feature*: set block height to viewport height
+* *New feature*: set background sizing to "cover" or "contain"
 * Prevent customizer WP Admin button from returning to front
 * Give truncated grid excerpts elipses
 * Fix ajax error when saving unchanged grid

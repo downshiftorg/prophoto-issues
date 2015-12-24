@@ -1,5 +1,18 @@
 # Changelog
 
+#### 6.0.0-beta8
+
+New features, enhancements, and bugfixes
+
+* *New feature*: Google fonts support (see Customizer > Fonts > Google fonts)
+* *New feature*: customizable top/bottom borders for blocks and rows
+* Improved row max-width by centering constrained rows
+* Fixed row-max width setting not working for "Site" level
+* Fixed non-working comments options and significantly improved comments customizability
+* Fixed bug rendering WordPress admin toolbar on front at small screen resolutions
+* Fixed bugs with font style appearances within widgets
+
+
 #### 6.0.0-beta7
 
 Two new features, plus various enhancements and bugfixes

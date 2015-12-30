@@ -2,13 +2,15 @@
 
 #### 6.0.0-beta9
 
-New feature, lol (12/29/15)
+Excerpt images, better responsive images, and bug fixes (12/30/15)
 
 * *New feature*: Excerpt images
 * Improve responsive image rendering at large screen sizes
+* Add debug logging for database errors
 * Fix bug with new row creation that could cause fatal errors and white screens
 * Fix bug causing spacing to appear on gallery images
 * Fix bug during initial theme activation showing WordPress database error warning
+
 
 #### 6.0.0-beta8
 

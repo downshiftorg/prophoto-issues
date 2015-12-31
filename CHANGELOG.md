@@ -1,5 +1,17 @@
 # Changelog
 
+#### 6.0.0-beta10
+
+Bugfixes (12/31/15)
+
+* Fix bug that could cause column, row, or block customizations to not inherit properly
+* Fix bug causing customizer modal screen to break in Firefox
+* Fix bug with cropped images in grids not rendering correctly
+* Remove non-working gallery grid display options until restored
+* Remove non-working grid spacing between option, now controlled by grid instance
+* Prevent creation of multiple widgets by mashing on create button
+
+
 #### 6.0.0-beta9
 
 Excerpt images, better responsive images, and bug fixes (12/30/15)

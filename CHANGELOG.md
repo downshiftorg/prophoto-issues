@@ -1,5 +1,17 @@
 # Changelog
 
+#### 6.0.0-beta11
+
+Bugfixes (1/4/16)
+
+* Remove non-working grid comments-count customization until feature restored
+* Fix wording of grid item padding controls
+* Main ProPhoto WordPress admin link goes to Customizer screen, not settings
+* Workaround CloudFlare caching error that causes uploaded images to not be seen
+* Add db migration to attempt to repair data integrity customization issues from previous bug
+* Fix Google fonts only allowing fonts that start with "A"
+
+
 #### 6.0.0-beta10
 
 Bugfixes (12/31/15)

@@ -1,5 +1,28 @@
 # Changelog
 
+#### 6.0.0-beta12
+
+New features and bugfixes (1/13/16)
+
+* **New Feature: [Multiple templates](https://gist.github.com/jaredh159/849e64eb9eb6cdfc14dc)**
+* **New Feature: [Site-level responsive breakpoint customizations](https://gist.github.com/jaredh159/a83a98becb3c782f97d8)**
+* *New Feature:* Bulk-create page and gallery menu items
+* *New Feature:* [Support using/testing P6 while still running P5](https://gist.github.com/jaredh159/e0ba2ef8186d47c0f407)
+* Automatically add newly created menu items to menu currently being edited
+* Sort menu items newest on top
+* Fix bug that could break site if menu item delete failed
+* Fix missing grid items in grids below content
+* Prevent fatal errors when widget data can't be found
+* Fix bug that caused grids to render wonky with paddings and large borders
+* Fix missing support for site-level block height controls
+* Fix bug with inherited state and reversion in row max width areas
+* Made ProPhoto text widget text alignment more reliable
+* Fix bug that made mobile menu impossible to close if window enlarged
+* Fix menu bug that made all menus hidden at viewport width of 768px (iPad in portrait)
+* Batched several types of customizer API requests for greater speed and error prevention
+* Fix bug with uploading design images that had `+` in filename
+
+
 #### 6.0.0-beta11
 
 Bugfixes (1/4/16)

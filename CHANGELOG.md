@@ -1,5 +1,15 @@
 # Changelog
 
+#### 6.0.0-beta13
+
+Bugfixes (1/14/16)
+
+* Fix bug creating brand new design that resulted in fatal PHP error
+* Fix bug in modal displays in customizer for Internet Explorer 11
+* Guard against and advise when required `PDO mysql` driver missing, instead of error
+* Fix font styling of comment author links
+
+
 #### 6.0.0-beta12
 
 New features and bugfixes (1/13/16)

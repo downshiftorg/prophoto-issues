@@ -1,5 +1,19 @@
 # Changelog
 
+#### 6.0.0-beta14
+
+Bugfixes (1/14/16)
+
+* Fix error causing saving of new FontStyles to not work
+* Prevent fatal error when gallery embedded in post is fully deleted
+* Do not render gallery in post when gallery has been trashed
+* Fix customizer font areas dropdown falling behind uploaded image preview
+* Prevent PHP warnings from `ini_set()` from interfering with theme activation
+* Fix error on 404 pages
+* Fix menu alignment in horizontal menus containing link with no URL
+* Fix comment line separation for Crafted design
+
+
 #### 6.0.0-beta13
 
 Bugfixes (1/14/16)

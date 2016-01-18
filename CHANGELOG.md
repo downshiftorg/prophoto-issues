@@ -5,6 +5,7 @@
 Bugfixes and usability enhancements (1/18/16)
 
 * Improved page meta box for template selection
+* Add auto-update support for our new [Test Drive Plugin](https://github.com/netrivet/prophoto-test-drive)
 * Fixed incorrect rendering of special characters on front-end
 * Fixed footer links removal with valid license
 * Fixed errors when deleting designs in the "Manage Designs" screen

@@ -1,5 +1,21 @@
 # Changelog
 
+#### 6.0.0-beta15
+
+Bugfixes and usability enhancements (1/18/16)
+
+* Improved page meta box for template selection
+* Fixed incorrect rendering of special characters on front-end
+* Fixed footer links removal with valid license
+* Fixed errors when deleting designs in the "Manage Designs" screen
+* Fixed text diplay errors in "ProPhoto Updates" settings box
+* Fixed custom css in child templates
+* Guard against errors caused by missing menu items
+* Fix error caused by editing existing menu items
+* Don't fatal error on embedded gallery that has been deleted
+* Don't render trashed gallery
+
+
 #### 6.0.0-beta14
 
 Bugfixes (1/14/16)

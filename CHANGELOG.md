@@ -1,5 +1,27 @@
 # Changelog
 
+#### 6.0.0-beta16
+
+Enhancements and bugfixes (1/19/16)
+
+* Added lots of **widget alignment and spacing controls**
+* Extend responsive customizations to blocks, rows, and columns
+* Remove `PDO` server requirement by creating a `$wpdb` Phinx adapter
+* Added template and block classes for easy custom CSS targeting
+* Fixed bug causing gallery style customizations to not save correctly
+* Fixed bug with background-size = cover not applying when set at Site level
+* Fixed janky alignment of customizer radio buttons and checkboxes
+* Fixed post titles not centering at small screen sizes
+* Fixed issues with block content overflowing block due to `vheight`
+* Fixed problem with default categories menu item causing modal white screen
+* Fixed `pp/uploads/images/null` errors from generated css
+* Fixed problems changing gallery style for gallery custom post pages
+* Fixed incorrect application of space below posts
+* Prevent fatal errors when no watermark image uploaded
+* Fixed non-working horizontal menu dropdown opacity setting
+* Fixed white-screen when pressing enter from edit design meta title
+
+
 #### 6.0.0-beta15
 
 Bugfixes and usability enhancements (1/18/16)

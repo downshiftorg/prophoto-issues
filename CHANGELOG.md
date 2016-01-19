@@ -4,7 +4,6 @@
 
 Enhancements and bugfixes (1/19/16)
 
-* Added lots of **widget alignment and spacing controls**
 * Extend responsive customizations to blocks, rows, and columns
 * Remove `PDO` server requirement by creating a `$wpdb` Phinx adapter
 * Added template and block classes for easy custom CSS targeting

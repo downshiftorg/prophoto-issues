@@ -1,5 +1,35 @@
 # Changelog
 
+#### 6.0.0-beta17
+
+Importing, features, enhancements and bugfixes (1/25/16)
+
+**P6 now imports P5 menus, galleries, and grids**
+**Added several widget spacing and alignment options**
+Added search and RSS new menu item types
+Kitty screenshot replaced with new P6 public beta screenshot (thanks Matt Hudson!)
+Prevent simultaneous customizer sessions for data integrity
+Display the number of comments on site front
+Restore comments hide/show functionality
+Convert all `PATCH` requests to `POST` for janky hosts that don't like HTTP verbs
+Default menu customizer to menu most recently updated
+Fixed site custom css not added to template css
+Fixed non-working footer link removal
+Fixed fatal error from default bootstrapped categories menu item
+Fixed page templates not taking effect when set for an individual page
+Fixed font-style editor rendering issues in IE11
+Prevent seeing through to mobile menu background color when site background colors removed
+Fixed a number of menu ordering and re-ordering issues
+Fixed category menu item not using custom title
+Fixed centered post titles not centering at small screen sizes
+Fixed hitting enter when editing design title results in white screen
+Fixed problems with site sizing when content exceeds vheight=1== block
+Fixed fatal errors when no watermark image uploaded
+Fixed save buttons not disabling after successful save
+Fixed saved grids attempting to display trashed galleries
+Prevent non-admin viewing of unregistered sites
+
+
 #### 6.0.0-beta16
 
 Enhancements and bugfixes (1/19/16)

@@ -1,7 +1,17 @@
-## Issue tracking for ProPhoto 6
+# ProPhoto Public Tracker
 
-See open issues here: https://github.com/netrivet/prophoto-issues/issues
+## Changelog
 
-## ProPhoto 6 Changelog
+https://github.com/netrivet/prophoto-issues/blob/master/CHANGELOG.md
 
-See a list of fixes and enhancements here: https://github.com/netrivet/prophoto-issues/blob/master/CHANGELOG.md
+## Bugs
+
+https://github.com/netrivet/prophoto-issues/issues?q=is%3Aopen+is%3Aissue+label%3Abug
+
+## Development Milestones
+
+https://github.com/netrivet/prophoto-issues/milestones
+
+## Unsorted non-bug tickets
+
+https://github.com/netrivet/prophoto-issues/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+-label%3Abug

@@ -1,5 +1,15 @@
 # Changelog
 
+#### 6.0.0-beta18
+
+Public beta release (1/26/16)
+
+* Initialize with Crafted as included json file instead of migration
+* Flatten migrations for public beta launch
+* Fix widget import/export when importing/exporting designs
+* Fix generic classnames from composer classmap causing interference with plugins
+
+
 #### 6.0.0-beta17
 
 Importing, features, enhancements and bugfixes (1/25/16)

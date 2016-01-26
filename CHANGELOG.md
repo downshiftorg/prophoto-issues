@@ -1,5 +1,13 @@
 # Changelog
 
+#### 6.0.0-beta19
+
+Bugfix and admin help links (1/26/16)
+
+* Add help link from customizer to [P6 beta documentation](https://www.prophoto.com/beta/prophoto6)
+* Add help link from non-customizer admin pages to [P6 beta documentation](https://www.prophoto.com/beta/prophoto6)
+* Fix bug for *private*-beta users getting missing menus and customizer white-screen
+
 #### 6.0.0-beta18
 
 Public beta release (1/26/16)

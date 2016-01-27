@@ -1,5 +1,14 @@
 # Changelog
 
+#### 6.0.0-beta20
+
+Bugfixes (1/27/16)
+
+* Fix a bug that caused mobile menu to not be seen
+* Fixed a bug that could cause columns to not line up side by side when they should
+* Fixed site settings in footer area not updating when links removed
+* Fixed widget title space below not working when applied at "Site" level
+
 #### 6.0.0-beta19
 
 Bugfix and admin help links (1/26/16)

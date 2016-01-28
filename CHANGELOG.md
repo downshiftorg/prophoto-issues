@@ -1,5 +1,17 @@
 # Changelog
 
+#### 6.0.0-beta21
+
+New feature, bugfixes, and enhancements (1/28/16)
+
+* **Fullscreen Galleries** - galleries can enable fullscreen support via gallery customizations
+* Fixed bug where a user could get stuck in "Let me customize" loop
+* Fixed a bug where WordPress would give a 200 OK for requests with errors
+* Fixed a bug where Safari incorrectly wrapped columns onto a new line
+* Disables "pause on hover" functionality of galleries
+* Fixed usability issue with showing template used for "static front" and "blog posts page"
+* Fixed a bug where gallery images were being rendered twice
+
 #### 6.0.0-beta20
 
 Bugfixes (1/27/16)

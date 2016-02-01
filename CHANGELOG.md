@@ -4,12 +4,12 @@
 
 Enhancements & bugfixes (2/1/16)
 
-* Enhancement: hide post/page title and/or all content with metabox in edit screen
-* Enhancmenet: add font style control for a few areas missing control
-* Enhancement: font styles now allow line-height control
-* Enhancement: gallery background color customization
-* Enhancement: galleries now support featured images, which are used by grids
-* Enhancement: added some diagnostic tools for troubleshooting errors & bad data
+* *Enhancement*: hide post/page title and/or all content with metabox in edit screen
+* *Enhancmenet*: add font style control for a few areas missing control
+* *Enhancement*: font styles now allow line-height control
+* *Enhancement*: gallery background color customization
+* *Enhancement*: galleries now support featured images, which are used by grids
+* *Enhancement*: added some diagnostic tools for troubleshooting errors & bad data
 * Fixed a bug that caused warnings for malformed html urls
 * Fixed gallery permalink pages intermittently being not found
 * Fixed a bug that caused assigned static home page template to not correctly apply

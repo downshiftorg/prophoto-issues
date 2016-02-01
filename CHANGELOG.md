@@ -1,5 +1,22 @@
 # Changelog
 
+#### 6.0.0-beta22
+
+Enhancements & bugfixes (2/1/16)
+
+* Enhancement: hide post/page title and/or all content with metabox in edit screen
+* Enhancmenet: add font style control for a few areas missing control
+* Enhancement: font styles now allow line-height control
+* Enhancement: gallery background color customization
+* Enhancement: galleries now support featured images, which are used by grids
+* Enhancement: added some diagnostic tools for troubleshooting errors & bad data
+* Fixed a bug that caused warnings for malformed html urls
+* Fixed gallery permalink pages intermittently being not found
+* Fixed a bug that caused assigned static home page template to not correctly apply
+* Prevented plugin conflicts in customizer
+* Fixed a bug that could cause templates to not delete
+* Fixed a bug that could cause malformed HTML in various places
+
 #### 6.0.0-beta21
 
 New feature, bugfixes, and enhancements (1/28/16)
@@ -11,6 +28,7 @@ New feature, bugfixes, and enhancements (1/28/16)
 * Disables "pause on hover" functionality of galleries
 * Fixed usability issue with showing template used for "static front" and "blog posts page"
 * Fixed a bug where gallery images were being rendered twice
+* Fixed display of text in registration/activation modal
 
 #### 6.0.0-beta20
 

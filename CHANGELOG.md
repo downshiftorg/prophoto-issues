@@ -1,5 +1,18 @@
 # Changelog
 
+#### 6.0.0-beta23
+
+Enhancements & bugfixes (2/3/16)
+
+* *Enhancement*: add image theft protection prevention of left-click to image source
+* *Enhancement*: add customization controls to gallery icons
+* Improved reliability and usability of block/row/column reordering in customizer
+* Fixed a bug that could cause changes to save to wrong template just after switching templates
+* Fixed excerpts not showing where designated
+* Fixed an error in deleting designs
+* Restored help-widget to customizer screen
+
+
 #### 6.0.0-beta22
 
 Enhancements & bugfixes (2/1/16)

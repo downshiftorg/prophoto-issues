@@ -1,5 +1,15 @@
 # Changelog
 
+#### 6.0.0-beta24
+
+Enhancements & bugfixes (2/4/16)
+
+* Removed copyright and page title font styles from column/row/block customizations (only template level)
+* Fixed bug where widget body text font style was not applying to `<li>` text
+* Fixed block deleting bug introduced in beta 23
+* More enhancements/fixes to ordering blocks, rows, and columns
+* Fixed admin title alignment bug that was caused by admin notices
+
 #### 6.0.0-beta23
 
 Enhancements & bugfixes (2/3/16)

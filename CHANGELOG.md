@@ -4,7 +4,7 @@
 
 Enhancements & bugfixes (2/4/16)
 
-* Removed copyright and page title font styles from column/row/block customizations (only template level)
+* Moved copyright and archive-type title font styles into Background and Content > Post Header areas
 * Fixed bug where widget body text font style was not applying to `<li>` text
 * Fixed block deleting bug introduced in beta 23
 * More enhancements/fixes to ordering blocks, rows, and columns

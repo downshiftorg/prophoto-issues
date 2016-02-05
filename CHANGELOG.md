@@ -1,5 +1,11 @@
 # Changelog
 
+#### 6.0.0-beta25
+
+Bugfix (2/5/16)
+
+* Critical fix for auto-update process
+
 #### 6.0.0-beta24
 
 Enhancements & bugfixes (2/4/16)

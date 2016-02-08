@@ -1,10 +1,18 @@
 # Changelog
 
+#### 6.0.0-beta26
+
+Bugfixes (2/8/16)
+
+* Prevent fatal errors for older builds with [apc cache bug](https://bugs.php.net/bug.php?id=52144)
+* Use fullpaths for theme required files to prevent rare issues with PHP included paths
+* Fix grid excerpts showing or being broken by plugin shortcodes
+
 #### 6.0.0-beta25
 
 Bugfix (2/5/16)
 
-* Critical fix for auto-update process
+* Fix for auto-update process not running on customizer screen
 
 #### 6.0.0-beta24
 

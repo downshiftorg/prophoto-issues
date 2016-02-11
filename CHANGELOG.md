@@ -1,5 +1,25 @@
 # Changelog
 
+#### 6.0.0-beta27
+
+Features, enhancements, & bugfixes (2/11/16)
+
+* **New feature: Gallery dot navigation**
+* **New feature: Add tooltip help in customizer**
+* *Enhancement:* Significantly improve gallery initialization appearance
+* *Enhancement:* Allow for re-importing of failed or new P5 galleries
+* *Enhancement:* Allow for importing of P4 galleries
+* Fix gallery custom post pages not displaying gallery title
+* Fix PHP warning on post/page save
+* Fix bug with responsive settings overriding non-responsive settings incorrectly
+* Fix bug with gallery arrow sizes being overridden by entity font styles
+* Fix display of gallery fullscreen button when fullscreen not supported
+* Fix bug causing watermarking of images to be inconsistent
+* Fix bug that prevented site settings comments disable to not save
+* Fix bug that could cause grid thumbs to be missing only in admin
+* Prevent Yoast SEO plugin metabox from dominating the universe
+* Remove lightbox gallery functionality ([click here for more explanation](https://gist.github.com/jaredh159/7a16bf5ef99de2a8e9c5))
+
 #### 6.0.0-beta26
 
 Bugfixes (2/8/16)

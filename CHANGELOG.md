@@ -1,5 +1,15 @@
 # Changelog
 
+#### 6.0.0-beta28
+
+Enhancements & bugfixes (2/12/16)
+
+* Enhancement: shortcodes now supported in ProPhoto text widget
+* Fix bug causing inheriting text input areas to not be editable
+* Fix bug causing small gallery arrows to be vertically aligned incorrectly
+* Fix bug causing imported galleries to have no assigned style
+* Fix bug that could cause P5 gallery imports to fail
+
 #### 6.0.0-beta27
 
 Features, enhancements, & bugfixes (2/11/16)

@@ -1,5 +1,16 @@
 # Changelog
 
+#### 6.0.0-beta29
+
+Gallery thumbnails & bugfixes (2/17/16)
+
+* **New feature:** Gallery thumbstrip thumbnail navigation
+* Fix bug causing certain widget and content images to load slowly
+* Fix bug in galleries where slides could be temporarily out of order
+* Fix bug in galleries that could slow loading speed and performance
+* Fix bug causing left-aligned text widgets to align incorrectly when column aligned
+* Prevent WordPress from lowering memory limit for admin requests
+
 #### 6.0.0-beta28
 
 Enhancements & bugfixes (2/12/16)

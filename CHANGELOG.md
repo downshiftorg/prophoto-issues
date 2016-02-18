@@ -4,8 +4,8 @@
 
 Bugfixes & enhancements (2/18/19)
 
-* Render embedded P4/5 galleries with main gallery style (https://github.com/netrivet/prophoto-issues/issues/338)
-* Prevent fatal error if incomplete image dimensions data (https://github.com/netrivet/prophoto-issues/issues/337)
+* Render embedded P4/5 galleries with main gallery style [#338](https://github.com/netrivet/prophoto-issues/issues/338)
+* Prevent fatal error if incomplete image dimensions data [#337](https://github.com/netrivet/prophoto-issues/issues/337)
 * Add diagnostic tools for recovering from bad data states
 
 #### 6.0.0-beta29

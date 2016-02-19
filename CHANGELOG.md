@@ -1,8 +1,20 @@
 # Changelog
 
-### 6.0.0-beta30
+#### 6.0.0-beta31
 
-Bugfixes & enhancements (2/18/19)
+Custom font uploads & bugfixes (2/19/16)
+
+* **New feature:** upload custom font `.woff` files
+* Enhancement: show exact viewport dimensions in tooltip explaining responsive breakpoints
+* Fix bug that could cause fatal error with bad grid view data
+* Prevent fatal error from super-janky invalid html in WordPress posts
+* Guard against templates with customizations data integrity issues
+* Fix bug causing some font-styles to not apply where assigned
+* Support extra items in design exports meant for design store
+
+#### 6.0.0-beta30
+
+Bugfixes & enhancements (2/18/16)
 
 * Render embedded P4/5 galleries with main gallery style [#338](https://github.com/netrivet/prophoto-issues/issues/338)
 * Prevent fatal error if incomplete image dimensions data [#337](https://github.com/netrivet/prophoto-issues/issues/337)

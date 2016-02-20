@@ -1,5 +1,13 @@
 # Changelog
 
+#### 6.0.0-beta32
+
+Bugfixes (2/20/16)
+
+* Fix a bug that caused `.woff` custom font uploads to fail on windows machines
+* Clarify language for individual post/page background area
+* Ensure uploaded custom fonts present in exported design zips
+
 #### 6.0.0-beta31
 
 Custom font uploads & bugfixes (2/19/16)

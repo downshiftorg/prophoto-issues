@@ -1,5 +1,17 @@
 # Changelog
 
+#### 6.0.0-beta33
+
+Bugfixes & enhancements (2/23/16)
+
+* Base template name/description now editable
+* Yoast SEO is detected as active SEO plugin, disabling our SEO options
+* Added font controls for comment date/time display
+* Fixed problem importing designs that could cause lots of widget problems
+* Fixed problem caused by trying to render inherited state of deleted font-style
+* Fixed bug with rendering custom uploaded fonts whose name begins with digit
+* Fixed bug cuasing it to be impossible to pinch to zoom/scale on touch devices
+
 #### 6.0.0-beta32
 
 Bugfixes (2/20/16)

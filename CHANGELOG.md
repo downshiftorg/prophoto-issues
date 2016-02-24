@@ -1,5 +1,12 @@
 # Changelog
 
+#### 6.0.0-beta34
+
+Bugfix & enhancement (2/24/16)
+
+* Guard against layout items from being created out of order
+* Prepping for special design store export process
+
 #### 6.0.0-beta33
 
 Bugfixes & enhancements (2/23/16)

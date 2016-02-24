@@ -4,7 +4,7 @@
 
 Bugfix & enhancement (2/24/16)
 
-* Guard against layout items from being created out of order
+* Fixed bug where rows were occasionally created without columns
 * Prepping for special design store export process
 
 #### 6.0.0-beta33

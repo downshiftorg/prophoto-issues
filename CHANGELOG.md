@@ -1,5 +1,21 @@
 # Changelog
 
+#### 6.0.0-beta35
+
+Features, enhancements, & bugfixes (2/25/16)
+
+* **New feature:** Control widget visibility at responsive breakpoints [#321](https://github.com/netrivet/prophoto-issues/issues/321)
+* **New feature:** Allow constraining of widget images to 1/2 width for better display of small images on retina devices [#326](https://github.com/netrivet/prophoto-issues/issues/326)
+* *Enhancement:* expose control for customizing gallery transition (slide/fade) speed [#330](https://github.com/netrivet/prophoto-issues/issues/330)
+* *Enhancement:* Vertically center gallery images [#346](https://github.com/netrivet/prophoto-issues/issues/346)
+* Hide P6 help widget and link for non-admin users [#369](https://github.com/netrivet/prophoto-issues/issues/369)
+* Fix image widget column spacing in IE [#366](https://github.com/netrivet/prophoto-issues/issues/366)
+* Fix comments count horizontal alignment not taking effect [#368](https://github.com/netrivet/prophoto-issues/issues/368)
+* Fix problem with column top-padding in Firefox [#358](https://github.com/netrivet/prophoto-issues/issues/358)
+* Fix problem that could cause template creation to produce corrupt data [#370](https://github.com/netrivet/prophoto-issues/issues/370)
+* Try to prevent possibility of downloading cached design export zips
+* Fix bug that in rare circumstances could cause template css to have no effect
+
 #### 6.0.0-beta34
 
 Bugfix & enhancement (2/24/16)

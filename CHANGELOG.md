@@ -5,7 +5,7 @@
 Features, enhancements, & bugfixes (2/25/16)
 
 * **New feature:** Control widget visibility at responsive breakpoints [#321](https://github.com/netrivet/prophoto-issues/issues/321)
-* **New feature:** Allow constraining of widget images to 1/2 width for better display of small images on retina devices [#326](https://github.com/netrivet/prophoto-issues/issues/326)
+* **New feature:** Permit constraining widget images to 1/2 width for better display of small images on retina devices [#326](https://github.com/netrivet/prophoto-issues/issues/326)
 * *Enhancement:* expose control for customizing gallery transition (slide/fade) speed [#330](https://github.com/netrivet/prophoto-issues/issues/330)
 * *Enhancement:* Vertically center gallery images [#346](https://github.com/netrivet/prophoto-issues/issues/346)
 * Hide P6 help widget and link for non-admin users [#369](https://github.com/netrivet/prophoto-issues/issues/369)

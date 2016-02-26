@@ -4,7 +4,7 @@
 
 Bufix (2/25/16)
 
-* Fix fatal error in Customizer for certain combinations of PHP/libxml [#373](https://github.com/netrivet/prophoto-issues/issues/373)
+* Fix fatal error in Customizer affecting only certain combinations of PHP/libxml [#373](https://github.com/netrivet/prophoto-issues/issues/373)
 
 #### 6.0.0-beta35
 

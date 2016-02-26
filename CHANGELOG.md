@@ -1,5 +1,11 @@
 # Changelog
 
+#### 6.0.0-beta36
+
+Bufix (2/25/16)
+
+* Fix fatal error in Customizer for certain combinations of PHP/libxml [#373](https://github.com/netrivet/prophoto-issues/issues/373)
+
 #### 6.0.0-beta35
 
 Features, enhancements, & bugfixes (2/25/16)

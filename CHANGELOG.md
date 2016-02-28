@@ -1,5 +1,12 @@
 # Changelog
 
+#### 6.0.0-beta37
+
+New feature & enhancement (2/28/16)
+
+* **New feature:** Use a gallery as a background for a block
+* Support pre-registration for installer plugin
+
 #### 6.0.0-beta36
 
 Bufix (2/25/16)

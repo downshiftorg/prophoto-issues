@@ -4,7 +4,7 @@
 
 New feature & enhancement (2/28/16)
 
-* **New feature:** Use a gallery as a background for a block
+* **New feature:** Use a gallery as a background for a block [#224](https://github.com/netrivet/prophoto-issues/issues/224)
 * Support pre-registration for installer plugin
 
 #### 6.0.0-beta36

@@ -9,7 +9,7 @@ Features, enhancements, & bugfixes (2/29/16)
 * *Enhancement:* Gallery styles are now design level (can be exported with designs)
 * *Enhancement:* Support pre-registration for installer plugin
 * Fix gallery bug in Firefox where portrait images didn't work in landscape aspect ratios
-* Fix widget vertical centering regression
+* Fix widget alignment regression
 
 #### 6.0.0-beta36
 

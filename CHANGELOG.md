@@ -1,5 +1,16 @@
 # Changelog
 
+#### 6.0.0-beta37
+
+Features, enhancements, & bugfixes (2/29/16)
+
+* **New feature:** Background galleries
+* **New feature:** Hide/show layout entities at specific breakpoints
+* *Enhancement:* Gallery styles are now design level (can be exported with designs)
+* *Enhancement:* Support pre-registration for installer plugin
+* Fix gallery bug in Firefox where portrait images didn't work in landscape aspect ratios
+* Fix widget vertical centering regression
+
 #### 6.0.0-beta36
 
 Bufix (2/25/16)

@@ -1,5 +1,15 @@
 # Changelog
 
+#### 6.0.0-beta38
+
+Enhancements and bugfixes (3/1/16)
+
+* *Enhancement:* Scoped custom sass for blocks/rows/columns [#324](https://github.com/netrivet/prophoto-issues/issues/324)
+* *Enhancement:* Support longer template descriptions with line breaks [#380](https://github.com/netrivet/prophoto-issues/issues/380)
+* Fixed bug that could cause widgets to be mixed up on import
+* Fixed bug that caused block customization modal to hang if no galleries [#379](https://github.com/netrivet/prophoto-issues/issues/379)
+* Fixed bug that could break mobile layouts when really, really long words present [#383](https://github.com/netrivet/prophoto-issues/issues/383)
+
 #### 6.0.0-beta37
 
 Features, enhancements, & bugfixes (2/29/16)

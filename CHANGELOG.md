@@ -1,5 +1,19 @@
 # Changelog
 
+#### 6.0.0-beta39
+
+Enhancements & bugfixes (3/3/16)
+
+* **New feature:** galleries used in design (widgets or block background) now export/import with design
+* *Enhancement:* grid types that can't be imported now replaced with detailed instructional placeholder text widget
+* Fix problems with gallery selection in widgets and block customizations [#388](https://github.com/netrivet/prophoto-issues/issues/388)
+* Fix background galleries not displaying in certain circumstances [#389](https://github.com/netrivet/prophoto-issues/issues/389)
+* Fix incorrect breaking of words on certain devices [#387](https://github.com/netrivet/prophoto-issues/issues/387)
+* Fix `null` display of empty template description
+* Remove site settings controls for non-working features [#386](https://github.com/netrivet/prophoto-issues/issues/386), [#331](https://github.com/netrivet/prophoto-issues/issues/331)
+* Mostly fix difficulty in clicking far-right pencil icons [#374](https://github.com/netrivet/prophoto-issues/issues/374)
+* Fixed a bug importing designs on PHP 5.3 only
+
 #### 6.0.0-beta38
 
 Enhancements and bugfixes (3/1/16)

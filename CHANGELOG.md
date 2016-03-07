@@ -1,5 +1,17 @@
 # Changelog
 
+#### 6.0.0-beta40
+
+Enhancements & bugfixes (3/7/16)
+
+* **New feature:** Customizer admin widget labels [#332](https://github.com/netrivet/prophoto-issues/issues/332)
+* *Enhancement:* move menus into design, always export mobile menus
+* *Enhancement:* allow larger grid border radius to support circular grid images
+* *Enhancement:* menu widgets get unique icon in customizer
+* Fix post excerpt spacign problem in IE11 [#392](https://github.com/netrivet/prophoto-issues/issues/392)
+* Fix incorrect first position of tooltips [#390](https://github.com/netrivet/prophoto-issues/issues/390)
+* Fix comment input initial rendering in Firefox [#385](https://github.com/netrivet/prophoto-issues/issues/385)
+
 #### 6.0.0-beta39
 
 Enhancements & bugfixes (3/3/16)

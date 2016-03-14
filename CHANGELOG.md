@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.0.0-beta43
+
+Bugfix (3/14/16)
+
+* Fix bug causing missing menus and errors during design export
+
 ### 6.0.0-beta42
 
 Features & bugfixes (3/14/16)

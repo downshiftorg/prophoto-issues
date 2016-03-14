@@ -16,7 +16,6 @@ Features & bugfixes (3/14/16)
 * Fix grid content mixup when multiple post-type grids on page [#407](https://github.com/netrivet/prophoto-issues/issues/407)
 * Fix inability to turn comment submit button bg to transparent [#412](https://github.com/netrivet/prophoto-issues/issues/412)
 * Fix Facebook page widget not responding to certain customizations [#406](https://github.com/netrivet/prophoto-issues/issues/406)
-* 
 
 #### 6.0.0-beta41
 

@@ -1,5 +1,18 @@
 # Changelog
 
+### 6.0.0-beta44
+
+Enhancements & bugfixes (3/17/16)
+
+* Improved error messaging for design zip upload failures [#416](https://github.com/netrivet/prophoto-issues/issues/416)
+* Allow translation of non-translatable category and tag text [#417](https://github.com/netrivet/prophoto-issues/issues/417)
+* Fix vertical menu top/bottom padding not applying [#414](https://github.com/netrivet/prophoto-issues/issues/414)
+* Fix bug causing rest of post not to render if embedded gallery is first [#420](https://github.com/netrivet/prophoto-issues/issues/420)
+* Discourage deleting of inactive widgets that might be in use by P6
+* Prevent fatal errors when widgets in use by P6 deleted
+* Fix bug causing crafted default rows and columns to be inserted into existing designs on updates
+* Fix poor rendering of `background-attachment: fixed` images on browsers that disable it
+
 ### 6.0.0-beta43
 
 Bugfix (3/14/16)

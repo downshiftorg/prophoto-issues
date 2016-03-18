@@ -1,5 +1,13 @@
 # Changelog
 
+### 6.0.0-beta45
+
+Enhancements & bugfix (3/18/16)
+
+* Separate paid add-on design attribution link with pipe
+* Add bluehost.com rebate checkbox to registration modal
+* Fix bug causing copied sibling templates to be connected to source [#422](https://github.com/netrivet/prophoto-issues/issues/422)
+
 ### 6.0.0-beta44
 
 Enhancements & bugfixes (3/17/16)

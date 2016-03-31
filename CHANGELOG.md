@@ -4,10 +4,10 @@
 
 Tiles, plugin widgets, and more (3/31/16)
 
-* **New feature:* Tiles (responsive buttons) [#221](https://github.com/netrivet/prophoto-issues/issues/221)
-* **New feature:* Support plugin widgets [#228](https://github.com/netrivet/prophoto-issues/issues/228)
-* **New feature:* Control at what breakpoint row columns all stack [#328](https://github.com/netrivet/prophoto-issues/issues/328)
-* **Enhancement:** Set default gallery style for gallery pages in customizer [#413](https://github.com/netrivet/prophoto-issues/issues/413)
+* **New feature:** Tiles (responsive buttons) [#221](https://github.com/netrivet/prophoto-issues/issues/221)
+* **New feature:** Support plugin widgets [#228](https://github.com/netrivet/prophoto-issues/issues/228)
+* **New feature:** Control at what breakpoint row columns all stack [#328](https://github.com/netrivet/prophoto-issues/issues/328)
+* *Enhancement:* Set default gallery style for gallery pages in customizer [#413](https://github.com/netrivet/prophoto-issues/issues/413)
 * Fix bug causing problems uploading design zips on PCs [#426](https://github.com/netrivet/prophoto-issues/issues/426)
 * Fix PHP errors and warnings for menu items pointing to non-existent posts/categories [#437](https://github.com/netrivet/prophoto-issues/issues/437) [#440](https://github.com/netrivet/prophoto-issues/issues/440)
 * Fix font style selector falling behind uploaded image in customizer [#434](https://github.com/netrivet/prophoto-issues/issues/434)

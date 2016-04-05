@@ -1,5 +1,21 @@
 # Changelog
 
+### 6.0.0-beta47
+
+Enhancements & bugfixes (4/5/16)
+
+* Increase max amounts for widget spacing controls
+* Add retina image support for tiles
+* Add button to remove tile from graphic widget
+* Avoid unexpected css transitions in tiles
+* Prevent PHP warnings for missing images [#441](https://github.com/netrivet/prophoto-issues/issues/441)
+* Prevent caching of dynamic template css [#450](https://github.com/netrivet/prophoto-issues/issues/450)
+* Ensure Pages menu item honors WordPress page order [#448](https://github.com/netrivet/prophoto-issues/issues/448)
+* Workaround rare problems auto-updating due to SSL incompatibilities [#445](https://github.com/netrivet/prophoto-issues/issues/445)
+* Fix widget alignment affecting horizontal menu dropdown text alignment [#419](https://github.com/netrivet/prophoto-issues/issues/419)
+* Fix bug causing comment reply font style to not be applied [#428](https://github.com/netrivet/prophoto-issues/issues/428)
+* Fix settings-area modal tutorials showing duplicate content [#425](https://github.com/netrivet/prophoto-issues/issues/425)
+
 ### 6.0.0-beta46
 
 Tiles, plugin widgets, and more (3/31/16)

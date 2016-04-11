@@ -1,5 +1,19 @@
 # Changelog
 
+### 6.0.0-beta48
+
+Features, enhancements & bugfixes (4/11/16)
+
+* **New feature:** Support importing designs with assets on Amazon S3
+* Increased max slider sizes for widget spacing controls
+* Added basic error messaging for ProPhoto and WordPress errors in customizer [#189](https://github.com/netrivet/prophoto-issues/issues/189)
+* Improve usability of horizontal dropdown menus on touch devices [#444](https://github.com/netrivet/prophoto-issues/issues/444)
+* Add unlink button to ProPhoto text widget [#457](https://github.com/netrivet/prophoto-issues/issues/457)
+* Fix bug causing Safari to size background galleries incorrectly under certain circumstances [#451](https://github.com/netrivet/prophoto-issues/issues/451)
+* Fix iOS image longpress to save not disabled when image protection turned on [#454](https://github.com/netrivet/prophoto-issues/issues/454)
+* Fix bug causing menu items not to save when data exceeded database limit [#452](https://github.com/netrivet/prophoto-issues/issues/452)
+* Prevent PHP warning from getting image size of non-existent image [#441](https://github.com/netrivet/prophoto-issues/issues/441)
+
 ### 6.0.0-beta47
 
 Enhancements & bugfixes (4/5/16)

@@ -1,5 +1,15 @@
 # Changelog
 
+### 6.0.0-beta49
+
+Enhancements & bugfixes (4/12/16)
+
+* *Enhancement:* Allow deleting of paid starter designs [#433](https://github.com/netrivet/prophoto-issues/issues/433)
+* Fix bug that caused graphic widget images to display too small at certain breakpoints in some browsers [#466](https://github.com/netrivet/prophoto-issues/issues/466)
+* Fix bug causing graphic widget images to overlay modal tile selector [#442](https://github.com/netrivet/prophoto-issues/issues/442)
+* Fix bug causing newly created tiles to disappear temporarily when switching customizer screens [#461](https://github.com/netrivet/prophoto-issues/issues/461)
+* Fix bug causing design thumb not to be imported for remote S3 design bundles
+
 ### 6.0.0-beta48
 
 Features, enhancements & bugfixes (4/11/16)

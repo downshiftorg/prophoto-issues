@@ -2,7 +2,7 @@
 
 ### 6.0.0-beta49
 
-Enhancements & bugfixes (4/12/16)
+Enhancement & bugfixes (4/12/16)
 
 * *Enhancement:* Allow deleting of paid starter designs [#433](https://github.com/netrivet/prophoto-issues/issues/433)
 * Fix bug that caused graphic widget images to display too small at certain breakpoints in some browsers [#466](https://github.com/netrivet/prophoto-issues/issues/466)

@@ -1,5 +1,15 @@
 # Changelog
 
+### 6.0.0-beta50
+
+Bugfixes, mostly from WordPress 4.5 update (4/13/16)
+
+* Fix bug causing errors adding new layout entities in customizer for WordPress 4.5 [#468](https://github.com/netrivet/prophoto-issues/issues/468)
+* Fix bug causing new widgets to not save in WordPress 4.5 [#468](https://github.com/netrivet/prophoto-issues/issues/468)
+* Fix bug causing *rollover* style grids to not render in WordPress 4.5 [#471](https://github.com/netrivet/prophoto-issues/issues/471)
+* Fix fatal error from `TileQueryInterface` on only extremely outdated builds of PHP 5.3 [#469](https://github.com/netrivet/prophoto-issues/issues/569)
+* Fix bug causing grid excerpts post limit to apply on non-excerpt pages [#467](https://github.com/netrivet/prophoto-issues/issues/467)
+
 ### 6.0.0-beta49
 
 Enhancement & bugfixes (4/12/16)

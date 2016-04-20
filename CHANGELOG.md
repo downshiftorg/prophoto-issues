@@ -5,7 +5,7 @@
 Features & bugfixes (4/20/16)
 
 * **New feature:** New gallery controls (including play/pause) and loads more customization options [#339](https://github.com/netrivet/prophoto-issues/issues/339)
-* *Enhancement:* persist paid designs as json manifests (prepares the way for including more free designs and other enhancements)
+* *Enhancement:* persist paid designs as json manifests (prepares the way for included free designs + other enhancements)
 * *Enhancement:* convert *Crafted* free design logo to *tile*
 * fix post header centering in browsers that need flexbox vendor prefixes [#481](https://github.com/netrivet/prophoto-issues/issues/481)
 * fix customizer error panel always visible at narrow screen widths [#473](https://github.com/netrivet/prophoto-issues/issues/473)

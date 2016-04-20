@@ -1,5 +1,19 @@
 # Changelog
 
+### 6.0.0-beta51
+
+Features & bugfixes (4/20/16)
+
+* **New feature:** New gallery controls (including play/pause) and loads more customization options [#339](https://github.com/netrivet/prophoto-issues/issues/339)
+* *Enhancement:* persist paid designs as json manifests (prepares the way for including more free designs and other enhancements)
+* *Enhancement:* convert *Crafted* free design logo to *tile*
+* fix post header centering in browsers that need flexbox vendor prefixes [#481](https://github.com/netrivet/prophoto-issues/issues/481)
+* fix customizer error panel always visible at narrow screen widths [#473](https://github.com/netrivet/prophoto-issues/issues/473)
+* fix tile transitions in old versions of Safari [#480](https://github.com/netrivet/prophoto-issues/issues/480)
+* prevent fatal error if plugin widget data missing [#477](https://github.com/netrivet/prophoto-issues/issues/477)
+* prevent incorrect failure reports for auto-updates in non-english WordPress installs [#476](https://github.com/netrivet/prophoto-issues/issues/476)
+* fix pages dropdown rendering pages in reverse order [#472](https://github.com/netrivet/prophoto-issues/issues/472)
+
 ### 6.0.0-beta50
 
 Bugfixes, mostly from WordPress 4.5 update (4/13/16)

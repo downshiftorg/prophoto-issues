@@ -1,5 +1,14 @@
 # Changelog
 
+### 6.0.0-beta52
+
+Bugfixes (4/21/16)
+
+* fix bug that could cause unexpected red colors in random places [#488](https://github.com/netrivet/prophoto-issues/issues/488)
+* fix dropdown menu items falling behind tiles [#486](https://github.com/netrivet/prophoto-issues/issues/486)
+* fix paid design upload failures on 32-bit systems [#485](https://github.com/netrivet/prophoto-issues/issues/485)
+* fix Pages menu item incorrectly limited to 5 items [#487](https://github.com/netrivet/prophoto-issues/issues/487)
+
 ### 6.0.0-beta51
 
 Features & bugfixes (4/20/16)

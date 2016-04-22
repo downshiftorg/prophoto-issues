@@ -1,5 +1,15 @@
 # Changelog
 
+### 6.0.0-beta53
+
+Enhancements & bugfixes (4/22/16)
+
+* *Enhancement:* Display information about how many templates are sharing a widget
+* *Enhancement:* Allow for setting color overrides for font layer hover states in tiles
+* *Enhancement:* Improve number inputs in tile editor, easier negative value, and keyboard arrow controls [#460](https://github.com/netrivet/prophoto-issues/issues/460)
+* fix problems in tiles when empty x or y values [#479](https://github.com/netrivet/prophoto-issues/issues/479)
+* fix very large tiles overlapping tile editor sidebar [#478](https://github.com/netrivet/prophoto-issues/issues/478)
+
 ### 6.0.0-beta52
 
 Bugfixes (4/21/16)

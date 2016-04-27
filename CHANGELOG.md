@@ -1,5 +1,17 @@
 # Changelog
 
+### 6.0.0-beta54
+
+New free designs, enhancements, & bugfixes (4/27/16)
+
+* **Add 4 new free designs** including [Morgan](https://www.prophoto.com/store/morgan/) from [The Design Space](http://thedesignspace.co/), [Sunny](https://www.prophoto.com/store/sunny) and [Square](https://www.prophoto.com/store/square/) from [La Lune Creative](http://www.lalunecreative.com/) [#349](https://github.com/netrivet/prophoto-issues/issues/349)
+* *Enhancement:* fine-grained font-style assignments for widget html tags [#200](https://github.com/netrivet/prophoto-issues/issues/200)
+* *Enhancement:* clearly show when changing customization settings will break parent template inheritance
+* fix bug importing P5 menus [#491](https://github.com/netrivet/prophoto-issues/issues/491)
+* fix horizontal clipping of horizontal menus in certain circumstances [#489](https://github.com/netrivet/prophoto-issues/issues/489)
+* improve error feedback for design asset download permission problems
+
+
 ### 6.0.0-beta53
 
 Enhancements & bugfixes (4/22/16)

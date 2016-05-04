@@ -1,5 +1,25 @@
 # Changelog
 
+### 6.0.0-beta55
+
+Enhancements & bugfixes (5/4/16)
+
+* *Enhancement:* show blocks/rows/columns inheritance, and force un-locking of actions that break inheritance
+* *Enhancement:* allow disabling of gallery play/pause control button [#498](https://github.com/netrivet/prophoto-issues/issues/498)
+* fix column inheritance bug when dragging widget between rows in non-base template [#507](https://github.com/netrivet/prophoto-issues/issues/507)
+* prevent PHP timeout on long-running design copy/import requests [#506](https://github.com/netrivet/prophoto-issues/issues/506)
+* prevent tile rendering problems if user inputs invalid custom css or sass [#505](https://github.com/netrivet/prophoto-issues/issues/505)
+* prevent P6 text widget from stripping `<style>` tags [#500](https://github.com/netrivet/prophoto-issues/issues/500)
+* fix incorrect placement of gallery control bar in a certain combination of settings [#497](https://github.com/netrivet/prophoto-issues/issues/497)
+* fix gallery control button shadow not rendering transparent [#499](https://github.com/netrivet/prophoto-issues/issues/499)
+* fix incorrectly positioned tile layers in IE10+ when layers larger than tile [#493](https://github.com/netrivet/prophoto-issues/issues/493)
+* fix rare bug from non-standard PHP `arg_separator.output` value [#504](https://github.com/netrivet/prophoto-issues/issues/504)
+* fix inability to add WordPress comments when Facebook commenting enabled [#396](https://github.com/netrivet/prophoto-issues/issues/396)
+* fix single-column grids not obeying gutter value [#496](https://github.com/netrivet/prophoto-issues/issues/496)
+* fix inheritance bug in copied sibling templates [#492](https://github.com/netrivet/prophoto-issues/issues/492)
+* fix row backgrounds not correctly overlaying background galleries [#495](https://github.com/netrivet/prophoto-issues/issues/495)
+* fix invisible blocks and columns when dragging to reorder (Chrome 50+ only)
+
 ### 6.0.0-beta54
 
 New free designs, enhancements, & bugfixes (4/27/16)

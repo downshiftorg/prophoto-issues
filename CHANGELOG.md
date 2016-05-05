@@ -1,5 +1,13 @@
 # Changelog
 
+### 6.0.0-beta56
+
+Enhancements & bugfixes (5/5/16)
+
+* *Enhancement:* add links to customization tutorials for free included starter designs
+* fix broken galleries after beta55 update [#508](https://github.com/netrivet/prophoto-issues/issues/508)
+* fix problems switching templates when there are orphan template entities [#509](https://github.com/netrivet/prophoto-issues/issues/509)
+
 ### 6.0.0-beta55
 
 Enhancements & bugfixes (5/4/16)

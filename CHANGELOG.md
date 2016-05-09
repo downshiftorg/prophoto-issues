@@ -1,5 +1,15 @@
 # Changelog
 
+### 6.0.0-beta57
+
+Sticky blocks, customizer redesign, and bugfixes (5/9/16)
+
+* **New feature:** Make a block "sticky", with sticky-state customization overrides [#348](https://github.com/netrivet/prophoto-issues/issues/348)
+* *Enhancement:* Major redesign of customizer, including faster template switching [#254](https://github.com/netrivet/prophoto-issues/issues/254)
+* Fix bug with parent entity-level responsive controls not applying [#514](https://github.com/netrivet/prophoto-issues/issues/514)
+* Fix bad selection of gallery style for P5/P4 legacy embedded galleries [#512](https://github.com/netrivet/prophoto-issues/issues/512)
+* Fix empty grid-type site-level font style control modal tabs [#510](https://github.com/netrivet/prophoto-issues/issues/510)
+
 ### 6.0.0-beta56
 
 Enhancements & bugfixes (5/5/16)

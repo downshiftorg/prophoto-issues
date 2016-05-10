@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.0.0-beta58
+
+Bugfix (5/10/16)
+
+* Fix bug that could cause customizer to hang when switching templates [#515](https://github.com/netrivet/prophoto-issues/issues/515)
+
 ### 6.0.0-beta57
 
 Sticky blocks, customizer redesign, and bugfixes (5/9/16)

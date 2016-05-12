@@ -1,5 +1,15 @@
 # Changelog
 
+### 6.0.0-beta59
+
+Enhancements & bugfixes (5/11/16)
+
+* *Enhancement:* Customizer reloads on the template you were last editing
+* *Enhancement:* Clarify language of locked customization groups
+* *Enhancement:* Change template-level settings gear label from "Site" to "Template"
+* Fix bug with adding of blocks and rows not correctly breaking inheritance [#517](https://github.com/netrivet/prophoto-issues/issues/517)
+* Fix bug with hamburger icon placement after opening mobile menu or scrolling down [#518](https://github.com/netrivet/prophoto-issues/issues/518)
+
 ### 6.0.0-beta58
 
 Bugfix (5/10/16)

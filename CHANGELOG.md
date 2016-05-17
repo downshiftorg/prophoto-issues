@@ -6,7 +6,7 @@ Bugfixes (5/17/16)
 
 * Fix bug where menu dropdowns in sticky block fall behind tiles in Safari [#523](https://github.com/netrivet/prophoto-issues/issues/523)
 * Fix bug with sticky block positioning when block contains responsive image [#526](https://github.com/netrivet/prophoto-issues/issues/526)
-* Fix problem download design assets on certain Windows servers
+* Fix problem downloading design assets on certain Windows servers
 * Integration preparation for P6 version of Proofing plugin
 
 ### 6.0.0-beta59

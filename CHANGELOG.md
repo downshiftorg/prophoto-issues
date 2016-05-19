@@ -1,5 +1,14 @@
 # Changelog
 
+### 6.0.0-beta61
+
+Forms & bugfixes (5/18/16)
+
+* **New feature:** Forms [(click here for short explanation)](https://gist.github.com/jaredh159/5a1ac6283a0f9a695815810e0ff08b7e) [#350](https://github.com/netrivet/prophoto-issues/issues/350)
+* Fix rare bug that can break api responses [#522](https://github.com/netrivet/prophoto-issues/issues/522)
+* Improve grid initialization to prevent momentary jumble [#523](https://github.com/netrivet/prophoto-issues/issues/523)
+* Use new updated video for post-registration welcome modal
+
 ### 6.0.0-beta60
 
 Bugfixes (5/17/16)

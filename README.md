@@ -4,6 +4,10 @@
 
 https://github.com/netrivet/prophoto-issues/blob/master/CHANGELOG.md
 
+### Changelog (Proofing Plugin)
+
+https://github.com/netrivet/prophoto-issues/blob/master/PROOFING-CHANGELOG.md
+
 ### Bugs
 
 https://github.com/netrivet/prophoto-issues/issues?q=is%3Aopen+is%3Aissue+label%3Abug

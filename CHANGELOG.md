@@ -1,5 +1,26 @@
 # Changelog
 
+### 6.0.0
+
+Release, enhancements, & bugfixes (5/24/16)
+
+* Remove beta label
+* *Enhancement:* Add user-interface for easily embedding ProPhoto forms in posts/pages
+* *Enhancement:* Show template in front-end WordPress admin bar as link to edit that template
+* *Enhancement:* Show ProPhoto responsive screensize in front-end WordPress admin bar
+* *Enhancement:* Add default spacing for graphic widget label [#464](https://github.com/netrivet/prophoto-issues/issues/464)
+* *Enhancement:* Add new tile square should always be first, and scroll to copied tile
+* Improve appearance of test-drive and other admin notices on form log page [#535](https://github.com/netrivet/prophoto-issues/issues/535)
+* Clear tile image upload dropzone for multiple image layers [#502](https://github.com/netrivet/prophoto-issues/issues/502)
+* Fix widget body `h1` font-style overriding widget headline font-style [#511](https://github.com/netrivet/prophoto-issues/issues/511)
+* Prevent gallery fullscreen button from appearing on devices that don't support html5 fullscreen api [#516](https://github.com/netrivet/prophoto-issues/issues/516)
+* Fix aspect ratio of uploaded design images in Safari [#525](https://github.com/netrivet/prophoto-issues/issues/525)
+* Don't force prev/next gallery controls on mobile for auto-starting galleries [#528](https://github.com/netrivet/prophoto-issues/issues/528)
+* Fix gallery prev/next arrow alignment when control bar outside of gallery [#531](https://github.com/netrivet/prophoto-issues/issues/531)
+* Fix Facebook comments not respecting language setting [#534](https://github.com/netrivet/prophoto-issues/issues/534)
+* Remove javascript popup prompt for Zendesk help widget email address
+* Don't display input box explanatory help for boxes without help text
+
 ### 6.0.0-beta61
 
 Forms & bugfixes (5/18/16)

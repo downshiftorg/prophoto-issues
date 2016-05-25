@@ -1,5 +1,15 @@
 # Changelog
 
+### 6.0.1
+
+Bugfixes (5/25/16)
+
+* Fix bug that caused last form element to be deleted instead of chosen element [#539](https://github.com/netrivet/prophoto-issues/issues/539)
+* Fix problem with block-height overrides in Safari [#540](https://github.com/netrivet/prophoto-issues/issues/540)
+* Fix bug that could cause unexpected gallery appearance on mobile devices [#538](https://github.com/netrivet/prophoto-issues/issues/538)
+* Prevent error messages when saving a widget without changing widget data [#537](https://github.com/netrivet/prophoto-issues/issues/537)
+* Fix gallery images not visible in admin if any gallery images deleted [#536](https://github.com/netrivet/prophoto-issues/issues/536)
+
 ### 6.0.0
 
 Release, enhancements, & bugfixes (5/24/16)

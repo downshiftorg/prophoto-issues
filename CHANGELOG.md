@@ -1,5 +1,15 @@
 # Changelog
 
+### 6.1.0 -- [Blog post](https://www.prophoto.com/blog/prophoto-6-1-0/)
+
+Scroll-to links, usability enhancements, more (5/27/16)
+
+* **New feature:** Easily create links that smoothly scroll to blocks & rows [#163](https://github.com/netrivet/prophoto-issues/issues/163)
+* *Enhancement:* Numerous usability and workflow improvements for managing gallery images
+* Minification of generated css for performance
+* Add infrastructure for support diagnostics
+* Fix bug causing menu re-ordering problems with lengthy menus [#533](https://github.com/netrivet/prophoto-issues/issues/533)
+
 ### 6.0.1
 
 Bugfixes (5/25/16)

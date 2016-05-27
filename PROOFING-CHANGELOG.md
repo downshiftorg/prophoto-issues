@@ -1,5 +1,13 @@
 # Proofing Changelog
 
+### 6.0.0-beta3
+
+Bugfixes (5/27/16)
+
+* Improve test for incompatible theme
+* Fix bug that caused template css cache to be invalidated too frequently
+* Prevent attempts to auto-update if not registered
+
 ### 6.0.0-beta2
 
 Enhancements & bugfixes (5/25/16)

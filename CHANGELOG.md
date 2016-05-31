@@ -1,5 +1,14 @@
 # Changelog
 
+### 6.1.1
+
+Bugfixes (5/31/16)
+
+* Fix bug that could cause Facebook `<og:image>` image data to not update when featured image changed [#547](https://github.com/netrivet/prophoto-issues/issues/547)
+* Fix bug with Proofing plugin auto-updating when WordPress not in English [#546](https://github.com/netrivet/prophoto-issues/issues/546)
+* Fix bug extracting uploaded design zips on Windows servers [#545](https://github.com/netrivet/prophoto-issues/issues/545)
+* Support extensible grids for Proofing grid types
+
 ### 6.1.0 -- [Blog post](https://www.prophoto.com/blog/prophoto-6-1-0/)
 
 Scroll-to links, usability enhancements, more (5/27/16)

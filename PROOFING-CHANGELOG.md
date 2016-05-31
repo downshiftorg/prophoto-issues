@@ -1,5 +1,13 @@
 # Proofing Changelog
 
+### 6.0.0-beta4
+
+Enhancements (5/31/16)
+
+* *Enhancement:* restore proofing logo options commensurate with P5 plugin
+* *Enhancement:* restore tutorial videos and first-time popop behavior
+* *Enhancement:* support recent proofing galleries grid type
+
 ### 6.0.0-beta3
 
 Bugfixes (5/27/16)

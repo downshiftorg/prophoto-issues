@@ -1,5 +1,13 @@
 # Proofing Changelog
 
+### 6.0.0-beta5
+
+Child gallery fixes (6/2/16)
+
+* Fix problem with recent proofing galleries showing child galleries
+* Fix problem with proofing gallery archive pages showing child galleries
+* Use child gallery images for parent gallery excerpt image if no featured image set
+
 ### 6.0.0-beta4
 
 Enhancements (5/31/16)

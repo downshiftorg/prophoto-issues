@@ -1,5 +1,13 @@
 # Changelog
 
+### 6.1.2
+
+Bugfixes (6/2/16)
+
+* Hopefully fix problem copying _Morgan_ free design on 1and1 and other servers [#555](https://github.com/netrivet/prophoto-issues/issues/555)
+* Resolve a few scroll-to link problems [#549](https://github.com/netrivet/prophoto-issues/issues/549)
+* Fix improperly rendered Mac command character for Safari 9 [#544](https://github.com/netrivet/prophoto-issues/issues/544)
+
 ### 6.1.1
 
 Bugfixes (5/31/16)

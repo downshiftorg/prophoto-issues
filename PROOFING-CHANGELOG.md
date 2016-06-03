@@ -1,5 +1,12 @@
 # Proofing Changelog
 
+### 6.0.0-beta6
+
+Bugfixes (6/3/16)
+
+* Fix ordering of galleries in admin list galleries screen
+* Fixes from `beta5` were not applying, will be working in this build
+
 ### 6.0.0-beta5
 
 Child gallery fixes (6/2/16)

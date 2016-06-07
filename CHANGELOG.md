@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.2.3
+
+Bugfix (6/7/16)
+
+* Fix bug that caused javascript errors for IE10 and older browers without ES6 support
+
 ### 6.2.2
 
 Bugfixes (6/7/16)

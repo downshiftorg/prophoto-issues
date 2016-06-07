@@ -1,5 +1,19 @@
 # Changelog
 
+### 6.2.0
+
+New features & bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-2-0/) (6/6/16)
+
+* **New feature:** Copy/pasting widgets
+* **New feature:** Customizable text/tile/image "Read more" excerpt links for grids and standard excerpts [#297](https://github.com/netrivet/prophoto-issues/issues/297)
+* **New feature:** Upload favicon and apple-touch-icon for site identity [#281](https://github.com/netrivet/prophoto-issues/issues/281)
+* **Enhancement:** Select multiple gallery images and reorder them as a group [#543](https://github.com/netrivet/prophoto-issues/issues/543)
+* Fix inability to drag/drop upload images on galleries admin screens [#548](https://github.com/netrivet/prophoto-issues/issues/548)
+* Fix bug that caused mobile menu top/bottom padding customization to not apply [#560](https://github.com/netrivet/prophoto-issues/issues/560)
+* Fix bug with positioning of stuck sticky block when mobile menu open [#557](https://github.com/netrivet/prophoto-issues/issues/557)
+* Fix bug editing existing embedded grid in post/page [#556](https://github.com/netrivet/prophoto-issues/issues/556)
+* 
+
 ### 6.1.2
 
 Bugfixes (6/2/16)

@@ -1,5 +1,12 @@
 # Changelog
 
+### 6.2.1
+
+* Fix inheritance bug with adding new entities from parent templates
+[#561](https://github.com/netrivet/prophoto-issues/issues/561)
+* Fix bug with excerpt images not being found - (affects things like og:image for Facebook)
+[#564](https://github.com/netrivet/prophoto-issues/issues/564)
+
 ### 6.2.0
 
 New features & bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-2-0/) (6/6/16)
@@ -12,7 +19,6 @@ New features & bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-
 * Fix bug that caused mobile menu top/bottom padding customization to not apply [#560](https://github.com/netrivet/prophoto-issues/issues/560)
 * Fix bug with positioning of stuck sticky block when mobile menu open [#557](https://github.com/netrivet/prophoto-issues/issues/557)
 * Fix bug editing existing embedded grid in post/page [#556](https://github.com/netrivet/prophoto-issues/issues/556)
-* 
 
 ### 6.1.2
 

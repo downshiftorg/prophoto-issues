@@ -2,6 +2,8 @@
 
 ### 6.2.1
 
+Bugfixes (6/6/16)
+
 * Fix inheritance bug with adding new entities from parent templates
 [#561](https://github.com/netrivet/prophoto-issues/issues/561)
 * Fix bug with excerpt images not being found - (affects things like og:image for Facebook)

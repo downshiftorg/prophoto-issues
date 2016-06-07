@@ -2,7 +2,7 @@
 
 ### 6.2.1
 
-Bugfixes (6/6/16)
+Bugfixes (6/7/16)
 
 * Fix inheritance bug with adding new entities from parent templates
 [#561](https://github.com/netrivet/prophoto-issues/issues/561)
@@ -11,7 +11,7 @@ Bugfixes (6/6/16)
 
 ### 6.2.0
 
-New features & bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-2-0/) (6/6/16)
+New features & bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-2-0/) (6/7/16)
 
 * **New feature:** Copy/pasting widgets
 * **New feature:** Customizable text/tile/image "Read more" excerpt links for grids and standard excerpts [#297](https://github.com/netrivet/prophoto-issues/issues/297)

@@ -1,5 +1,13 @@
 # Proofing Changelog
 
+### 6.0.0-beta7
+
+Bugfixes (6/7/16)
+
+* Prevent grid errors if parent gallery has child gallery with no images
+* Don't show child-gallery image management metabox if zero images
+* Fix number of images loaded per ajax request to speed up gallery load times
+
 ### 6.0.0-beta6
 
 Bugfixes (6/3/16)

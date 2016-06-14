@@ -1,5 +1,16 @@
 # Changelog
 
+### 6.2.4
+
+Bugfixes & experimental PHP7 support (6/14/16)
+
+* *Enhancement:* PHP7 support (tested, but considered _experimental_ for a few weeks) [#563](https://github.com/netrivet/prophoto-issues/issues/563)
+* Fix bug with tiles showing unexpected space below [#567](https://github.com/netrivet/prophoto-issues/issues/567)
+* Fix non-working Facebook comments design settings [#568](https://github.com/netrivet/prophoto-issues/issues/568)
+* Fix misleading display of inheriting image settings in customizer [#490](https://github.com/netrivet/prophoto-issues/issues/490)
+* Fix sticky block mobile menu problem in IE11 [#558](https://github.com/netrivet/prophoto-issues/issues/558)
+* Ensure only admin-level logged in users can access ProPhoto customizer
+
 ### 6.2.3
 
 Bugfix (6/7/16)

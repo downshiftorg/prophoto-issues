@@ -1,5 +1,12 @@
 # Proofing Changelog
 
+### 6.0.0-beta8
+
+Bugfixes (6/15/16)
+
+* Fix failure to render optional content for proofing galleries
+* Fix obscure bug in Firefox that can make it hard to read and choose product variations
+
 ### 6.0.0-beta7
 
 Bugfixes (6/7/16)

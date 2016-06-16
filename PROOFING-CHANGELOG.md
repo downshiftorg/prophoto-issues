@@ -1,5 +1,11 @@
 # Proofing Changelog
 
+### 6.0.0-beta9
+
+Bugfix (6/16/16)
+
+* Fix improperly rendering gallery thumbnails when set to "cropped" [#584](https://github.com/netrivet/prophoto-issues/issues/584)
+
 ### 6.0.0-beta8
 
 Bugfixes (6/15/16)

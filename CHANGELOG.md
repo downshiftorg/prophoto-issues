@@ -4,7 +4,7 @@
 
 New features, enhancements, and bugfixes (6/22/16)
 
-* **New feature:** Custom grid items [#220](https://github.com/netrivet/prophoto-issues/issues/220)
+* **New feature:** Custom grids [#220](https://github.com/netrivet/prophoto-issues/issues/220)
 * *Enhancement:* Newly added block or row will now _always_ appear in all child templates, regardless of inheritance state
 * *Enhancement:* Many more template assignment controls, including 404, post categories, custom post types, proofing galleries, individual posts, individual galleries [#439](https://github.com/netrivet/prophoto-issues/issues/439)
 * *Enhancement:* Hardware acceleration for better tile transitions and border behavior [#501](https://github.com/netrivet/prophoto-issues/issues/510)

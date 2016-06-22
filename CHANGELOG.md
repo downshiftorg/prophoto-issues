@@ -1,5 +1,19 @@
 # Changelog
 
+### 6.3.0
+
+New features, enhancements, and bugfixes (6/22/16)
+
+* **New feature:** Custom grid items [#220](https://github.com/netrivet/prophoto-issues/issues/220)
+* *Enhancement:* Newly added block or row will now _always_ appear in all child templates, regardless of inheritance state
+* *Enhancement:* Many more template assignment controls, including 404, post categories, custom post types, proofing galleries, individual posts, individual galleries [#439](https://github.com/netrivet/prophoto-issues/issues/439)
+* *Enhancement:* Hardware acceleration for better tile transitions and border behavior [#501](https://github.com/netrivet/prophoto-issues/issues/510)
+* *Enhancement:* Tile text layer alignment options [#459](https://github.com/netrivet/prophoto-issues/issues/459)
+* *Enhancement:* Allow linebreaks in tile text layers [#458](https://github.com/netrivet/prophoto-issues/issues/458)
+* Fix bug causing script/slanted fonts to be partially cut off in tile text layers [#582](https://github.com/netrivet/prophoto-issues/issues/582)
+* Guard against non-standard plugin widgets that can't be rendered [#588](https://github.com/netrivet/prophoto-issues/issues/588)
+* Fix hiding of sticky block at responsive breakpoints [#591](https://github.com/netrivet/prophoto-issues/issues/591)
+
 ### 6.2.4
 
 Bugfixes & experimental PHP7 support (6/14/16)

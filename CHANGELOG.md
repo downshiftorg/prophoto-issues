@@ -1,5 +1,13 @@
 # Changelog
 
+### 6.3.1
+
+Bugfixes (6/23/16)
+
+* fix crossfading galleries occasionally going blank when images slow to load [#598](https://github.com/netrivet/prophoto-issues/issues/598)
+* fix fatal error caused if plugin widget deactivated before deleting widget from P6 [#596](https://github.com/netrivet/prophoto-issues/issues/596)
+* improve display of small-sized image dropzone upload areas
+
 ### 6.3.0
 
 New features, enhancements, and bugfixes --  [Blog post](https://www.prophoto.com/blog/prophoto-6-3-0/) (6/22/16)

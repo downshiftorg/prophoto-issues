@@ -2,7 +2,7 @@
 
 ### 6.3.0
 
-New features, enhancements, and bugfixes (6/22/16)
+New features, enhancements, and bugfixes --  [Blog post](https://www.prophoto.com/blog/prophoto-6-3-0/) (6/22/16)
 
 * **New feature:** Custom grids [#220](https://github.com/netrivet/prophoto-issues/issues/220)
 * *Enhancement:* Newly added block or row will now _always_ appear in all child templates, regardless of inheritance state
@@ -70,9 +70,9 @@ Bugfixes (5/31/16)
 * Fix bug extracting uploaded design zips on Windows servers [#545](https://github.com/netrivet/prophoto-issues/issues/545)
 * Support extensible grids for Proofing grid types
 
-### 6.1.0 -- [Blog post](https://www.prophoto.com/blog/prophoto-6-1-0/)
+### 6.1.0
 
-Scroll-to links, usability enhancements, more (5/27/16)
+Scroll-to links, usability enhancements, more -- [Blog post](https://www.prophoto.com/blog/prophoto-6-1-0/) (5/27/16)
 
 * **New feature:** Easily create links that smoothly scroll to blocks & rows [#163](https://github.com/netrivet/prophoto-issues/issues/163)
 * *Enhancement:* Numerous usability and workflow improvements for managing gallery images

@@ -1,5 +1,11 @@
 # Proofing Changelog
 
+### 6.0.0-beta12
+
+Bugfix (6/28/16)
+
+* fix bug in rendering of child galleries as cover photos introduced in `6.0.0-beta11`
+
 ### 6.0.0-beta11
 
 Bugfixes (6/28/16)

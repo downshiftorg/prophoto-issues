@@ -1,5 +1,14 @@
 # Proofing Changelog
 
+### 6.0.0-beta11
+
+Bugfixes (6/28/16)
+
+* fix handling of adjacent posts links for child & non-child galleries
+* change strategy for rendering cover photos for better cross-browser consistency
+* fix "error saving new user" message with unusual invalid user data
+* updates for compatibility with ProPhoto `6.4.0`
+
 ### 6.0.0-beta10
 
 Bugfixes (6/22/16)

@@ -1,5 +1,11 @@
 # Proofing Changelog
 
+### 6.0.0-beta13
+
+Bugfix (6/28/16)
+
+* fix initialization of product categories so that first category starts selected
+
 ### 6.0.0-beta12
 
 Bugfix (6/28/16)

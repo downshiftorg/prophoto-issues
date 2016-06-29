@@ -1,5 +1,16 @@
 # Changelog
 
+### 6.4.0
+
+Thumbnail galleries, Call to Action, and more -- [Blog post](https://www.prophoto.com/blog/prophoto-6-4-0/) (6/28/16)
+
+* **New feature:** Thumbnail-style galleries [#351](https://github.com/netrivet/prophoto-issues/issues/351)
+* **New feature:** Responsive call-to-action items [#223](https://github.com/netrivet/prophoto-issues/issues/223)
+* **New feature:** Gallery "full-window" mode: an alternative to "fullscreen" and a great fallback for devices that don't support HTML5 fullscreen api (iPhones, iPads, IE10)
+* fix bug deleting widgets caused by possibility of using duplicate widget ids from simultaneous customizer tabs [#603](https://github.com/netrivet/prophoto-issues/issues/603)
+* fix non-taxonomy custom post type (like uncategorized proofing galleries) template assignments not applying [#602](https://github.com/netrivet/prophoto-issues/issues/602)
+* fix auto-update failures on certain servers caused by too-long temp filename [#601](https://github.com/netrivet/prophoto-issues/issues/601)
+
 ### 6.3.1
 
 Bugfixes (6/23/16)

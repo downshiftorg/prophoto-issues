@@ -5,7 +5,7 @@
 * fixes bug where tile selector would not scroll in a modal window
 * fixes bug where exported form widgets would not render on front [#606](https://github.com/netrivet/prophoto-issues/issues/606)
 * fixes bug with call to action groups on multi-post pages [#605](https://github.com/netrivet/prophoto-issues/issues/605)
-* fixes inheritance issue with "Nav & Logo" block in "About" and "Info" templates
+* fixes inheritance issue with "Nav & Logo" block in "About" and "Info" templates in bundled design "Morgan"
 
 ### 6.4.1
 

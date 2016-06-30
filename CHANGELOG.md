@@ -1,5 +1,15 @@
 # Changelog
 
+### 6.4.2
+
+* fixes bug where tile selector would not scroll in a modal window
+* fixes bug where exported form widgets would not render on front [606](https://github.com/netrivet/prophoto-issues/issues/606)
+* fixes bug with call to action groups on multi-post pages [605](https://github.com/netrivet/prophoto-issues/issues/605)
+
+### 6.4.1
+
+* fix fatal errors resulting from call to action database changes
+
 ### 6.4.0
 
 Thumbnail galleries, Call to Action, and more -- [Blog post](https://www.prophoto.com/blog/prophoto-6-4-0/) (6/28/16)

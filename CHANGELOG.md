@@ -1,5 +1,9 @@
 # Changelog
 
+### 6.4.3
+
+* Minor release adding some internal tooling for troubleshooting "undeletable" widgets
+
 ### 6.4.2
 
 * fixes bug where tile selector would not scroll in a modal window

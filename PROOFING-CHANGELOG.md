@@ -1,5 +1,11 @@
 # Proofing Changelog
 
+### 6.0.0-beta14
+
+Bugfix (7/4/16)
+
+* fix parent galleries not displaying more than five child galleries
+
 ### 6.0.0-beta13
 
 Bugfix (6/28/16)

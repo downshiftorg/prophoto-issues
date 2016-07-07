@@ -1,10 +1,28 @@
 # Changelog
 
+### 6.4.4
+
+Bugfixes & performance improvements (7/7/16)
+
+* optimize main design database query for faster page loads
+* fix errors copying certain templates & inability to create copies of broken copies [#611](https://github.com/netrivet/prophoto-issues/issues/611)
+* fix inability to import P3-era galleries if source post can't be found [#614](https://github.com/netrivet/prophoto-issues/issues/614)
+* fix column vertical padding not applied on MS Edge [#612](https://github.com/netrivet/prophoto-issues/issues/612)
+* fix inability to delete images in certain scenarios in customizer [#613](https://github.com/netrivet/prophoto-issues/issues/613)
+* fix content images broken due to failure to correct for previous site url locations [#609](https://github.com/netrivet/prophoto-issues/issues/609)
+* fix password-protected post translation settings not applying [#616](https://github.com/netrivet/prophoto-issues/issues/616)
+* fix unintuitive reordering of blocks [#590](https://github.com/netrivet/prophoto-issues/issues/590)
+* fix problems with SEO and Facebook meta fields [#529](https://github.com/netrivet/prophoto-issues/issues/529)
+
 ### 6.4.3
+
+Bugfix (7/1/16)
 
 * Minor release adding some internal tooling for troubleshooting "undeletable" widgets
 
 ### 6.4.2
+
+Bugfixes (6/30/16)
 
 * fixes bug where tile selector would not scroll in a modal window
 * fixes bug where exported form widgets would not render on front [#606](https://github.com/netrivet/prophoto-issues/issues/606)
@@ -13,11 +31,13 @@
 
 ### 6.4.1
 
+Bugfix (6/29/16)
+
 * fix fatal errors resulting from call to action database changes
 
 ### 6.4.0
 
-Thumbnail galleries, Call to Action, and more -- [Blog post](https://www.prophoto.com/blog/prophoto-6-4-0/) (6/28/16)
+Thumbnail galleries, Call to Action, and more -- [Blog post](https://www.prophoto.com/blog/prophoto-6-4-0/) (6/29/16)
 
 * **New feature:** Thumbnail-style galleries [#351](https://github.com/netrivet/prophoto-issues/issues/351)
 * **New feature:** Responsive call-to-action items [#223](https://github.com/netrivet/prophoto-issues/issues/223)

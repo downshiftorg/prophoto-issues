@@ -1,5 +1,12 @@
 # Proofing Changelog
 
+### 6.0.0-beta15
+
+Bugfixes (6/7/16)
+
+* use protected gallery title format from proofing settings
+* fix php notice from variable typo visible when `WP_DEBUG` enabled
+
 ### 6.0.0-beta14
 
 Bugfix (7/4/16)

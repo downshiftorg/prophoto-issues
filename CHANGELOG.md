@@ -5,7 +5,7 @@
 Bugfixes (7/8/16)
 
 * fix fatal error from Seo class on pages where `$post` can't be found [#618](https://github.com/netrivet/prophoto-issues/issues/618)
-* fix fatal errors on `PHP 5.3.6`
+* fix fatal errors on `PHP 5.3.6` [#617](https://github.com/netrivet/prophoto-issues/issues/617)
 * fix errors related to call-to-action from designs exported at `6.4.0`
 
 ### 6.4.4

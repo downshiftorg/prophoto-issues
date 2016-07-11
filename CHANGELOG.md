@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.5.6
+
+Performance enhancement (7/11/16)
+
+* cache main front-end query for faster page loads
+
 ### 6.4.5
 
 Bugfixes (7/8/16)

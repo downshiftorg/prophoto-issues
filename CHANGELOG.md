@@ -1,5 +1,14 @@
 # Changelog
 
+### 6.5.0
+
+Features & enhancements (7/12/16)
+
+* Add "ProPhoto bar" on front for admins with inspecting and direct links to edit widgets
+* Allow max-height constraint based on window size for content images [#395](https://github.com/netrivet/prophoto-issues/issues/395)
+* Use form submitted email address as notification reply-to address [#552](https://github.com/netrivet/prophoto-issues/issues/552)
+* Cross-browser compatible form required field validation with customizable messages [#587](https://github.com/netrivet/prophoto-issues/issues/587)
+
 ### 6.4.7
 
 Hotfix (7/11/16)

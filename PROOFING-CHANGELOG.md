@@ -1,8 +1,16 @@
 # Proofing Changelog
 
+### 6.0.0-beta16
+
+Bugfixes (7/11/16)
+
+* fix fatal error from product group pricing
+* render child gallery breadcrumb links
+* localize currencies for admin order email notifications
+
 ### 6.0.0-beta15
 
-Bugfixes (6/7/16)
+Bugfixes (7/7/16)
 
 * use protected gallery title format from proofing settings
 * fix php notice from variable typo visible when `WP_DEBUG` enabled

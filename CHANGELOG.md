@@ -13,7 +13,7 @@ Features & enhancements -- [Blog post](https://www.prophoto.com/blog/prophoto-6-
 
 Hotfix (7/11/16)
 
-* Temporarily disables caching of front-end query because we didn't consider how templates are resolved ¯\\\_(ツ)_/¯ [#621](https://github.com/netrivet/prophoto-issues/issues/621)
+* disables caching of front-end query because we didn't consider how templates are resolved ¯\\\_(ツ)_/¯ [#621](https://github.com/netrivet/prophoto-issues/issues/621)
 
 ### 6.4.6
 

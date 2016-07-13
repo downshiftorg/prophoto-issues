@@ -2,7 +2,7 @@
 
 ### 6.5.0
 
-Features & enhancements (7/12/16)
+Features & enhancements -- [Blog post](https://www.prophoto.com/blog/prophoto-6-5-0/) (7/12/16)
 
 * Add "ProPhoto bar" on front for admins with inspecting and direct links to edit widgets
 * Allow max-height constraint based on window size for content images [#395](https://github.com/netrivet/prophoto-issues/issues/395)

@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.5.1
+
+Bugfix (7/13/16)
+
+* fix bug causing mobile menu hamburger icon click to not work [#623](https://github.com/netrivet/prophoto-issues/issues/623)
+
 ### 6.5.0
 
 Features & enhancements -- [Blog post](https://www.prophoto.com/blog/prophoto-6-5-0/) (7/12/16)

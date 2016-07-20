@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.6.2
+
+Bugfix (7/20/16)
+
+* fix bug affecting a few updaters to `6.6.x` causing static home page setting not to be obeyed
+
 ### 6.6.1
 
 Bugfixes (7/20/16)

@@ -1,5 +1,14 @@
 # Changelog
 
+### 6.6.0
+
+Features & enhancements (7/20/16)
+
+* Front-page settings now controlled in customizer on a per-design basis
+* Reorganize customizer to clearly distinguish between _design_ and _template_ areas [#196](https://github.com/netrivet/prophoto-issues/issues/196)
+* Fix problems saving site settings in very rare circumstances [#629](https://github.com/netrivet/prophoto-issues/issues/629)
+* Fix deleting menu item from library pops up two modals [#630](https://github.com/netrivet/prophoto-issues/issues/630)
+
 ### 6.5.1
 
 Bugfix (7/13/16)

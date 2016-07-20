@@ -1,8 +1,15 @@
 # Changelog
 
+### 6.6.1
+
+Bugfixes (7/20/16)
+
+* fix rare error from archives menu item when zero published posts [#632](https://github.com/netrivet/prophoto-issues/issues/632)
+* fix front-end widget link hash broken in `6.6.0`
+
 ### 6.6.0
 
-Features & enhancements (7/20/16)
+Features & enhancements -- [Blog post](https://www.prophoto.com/blog/prophoto-6-6-0/) (7/20/16)
 
 * Front-page settings now controlled in customizer on a per-design basis
 * Reorganize customizer to clearly distinguish between _design_ and _template_ areas [#196](https://github.com/netrivet/prophoto-issues/issues/196)

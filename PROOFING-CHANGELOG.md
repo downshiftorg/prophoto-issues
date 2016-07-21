@@ -1,5 +1,18 @@
 # Proofing Changelog
 
+### 6.0.0-beta18
+
+Bugfixes (7/21/16)
+
+* fix missing thumbs after window resize while modal displayed
+
+### 6.0.0-beta17
+
+Bugfixes (7/14/16)
+
+* fix authentication of individual image downloads by email address
+* fix warning generated for default variation value
+
 ### 6.0.0-beta16
 
 Bugfixes (7/11/16)

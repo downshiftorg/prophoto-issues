@@ -1,5 +1,14 @@
 # Changelog
 
+### 6.6.3
+
+Bugfixes (7/22/16)
+
+* fix bug resolving page for posts if WordPress option never existed [#647](https://github.com/netrivet/prophoto-issues/issues/647)
+* fix email reply-to address header [#646](https://github.com/netrivet/prophoto-issues/issues/646)
+* fix slashes being added to saved ProPhoto site settings [#645](https://github.com/netrivet/prophoto-issues/issues/645)
+* hide P3 gallery placeholders on site front [#644](https://github.com/netrivet/prophoto-issues/issues/644)
+
 ### 6.6.2
 
 Bugfix (7/20/16)

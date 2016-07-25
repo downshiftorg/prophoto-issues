@@ -1,5 +1,13 @@
 # Proofing Changelog
 
+### 6.0.0-beta19
+
+Bugfixes (7/25/16)
+
+* support proofing galleries in select posts grids
+* fix link to proofing customizer area from main WordPress admin
+* ensure correct template is used for generated proofing CSS
+
 ### 6.0.0-beta18
 
 Bugfixes (7/21/16)

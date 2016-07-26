@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.6.4
+
+Ehnacement/bugfix (7/26/16)
+
+* import selected P5/4 settings [#619](https://github.com/netrivet/prophoto-issues/issues/619)
+
 ### 6.6.3
 
 Bugfixes (7/22/16)

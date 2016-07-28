@@ -1,8 +1,16 @@
 # Changelog
 
+### 6.6.5
+
+Bugfixes (7/28/16)
+
+* prevent & fix problems with non-working front-page and call-to-action settings [#650](https://github.com/netrivet/prophoto-issues/issues/650)
+* fix bug causing galleries to hang on very small images [#651](https://github.com/netrivet/prophoto-issues/issues/651)
+* fix occasional weird display of long decimal values in tile height field [#649](https://github.com/netrivet/prophoto-issues/issues/649)
+
 ### 6.6.4
 
-Ehnacement/bugfix (7/26/16)
+Enhancement/bugfix (7/26/16)
 
 * import selected P5/4 settings [#619](https://github.com/netrivet/prophoto-issues/issues/619)
 

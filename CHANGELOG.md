@@ -1,5 +1,20 @@
 # Changelog
 
+### 6.7.0
+
+Features, enhancements, & bugfixes (8/2/16)
+
+* **New feature:** Design _on-boarding_ wizard to guide through front page & template assignments [#638](https://github.com/netrivet/prophoto-issues/issues/638)
+* **New feature:** Customizable form submission email subject & body [#551](https://github.com/netrivet/prophoto-issues/issues/551)
+* **New feature:** Find all template background images from site front toolbar & click to edit [#637](https://github.com/netrivet/prophoto-issues/issues/637)
+* **New feature:** Front-end ProPhoto bar inspect mode inspects and links to blocks, rows, columns, & widgets [#636](https://github.com/netrivet/prophoto-issues/issues/636)
+* *Enhancement:* Add domain-based email `sendfrom` and remote email sending to improve email delivery rates [#641](https://github.com/netrivet/prophoto-issues/issues/641)
+* *Enhancement:* Don't close customization modals when clicking "save" [#465](https://github.com/netrivet/prophoto-issues/issues/465)
+* fix google/statcounter analytics wrongly counting admin visits [#656](https://github.com/netrivet/prophoto-issues/issues/656)
+* fix incorrect sizing of sticky-block placeholder [#655](https://github.com/netrivet/prophoto-issues/issues/655)
+* fix major javascript error when trying to render gallery with zero images [#652](https://github.com/netrivet/prophoto-issues/issues/652)
+* isolate javascript modules to prevent error in one from bringing down others [#653](https://github.com/netrivet/prophoto-issues/issues/653)
+
 ### 6.6.5
 
 Bugfixes (7/28/16)

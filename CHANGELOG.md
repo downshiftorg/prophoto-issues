@@ -10,6 +10,8 @@ Features, enhancements, & bugfixes (8/2/16)
 * **New feature:** Front-end ProPhoto bar inspect mode inspects and links to blocks, rows, columns, & widgets [#636](https://github.com/netrivet/prophoto-issues/issues/636)
 * *Enhancement:* Add domain-based email `sendfrom` and remote email sending to improve email delivery rates [#641](https://github.com/netrivet/prophoto-issues/issues/641)
 * *Enhancement:* Don't close customization modals when clicking "save" [#465](https://github.com/netrivet/prophoto-issues/issues/465)
+* *Enhancement:* Add toggle for excerpt "read more" link [#575](https://github.com/netrivet/prophoto-issues/issues/575)
+* *Enhancement:* Add default "read more" link font styles to included designs
 * fix google/statcounter analytics wrongly counting admin visits [#656](https://github.com/netrivet/prophoto-issues/issues/656)
 * fix incorrect sizing of sticky-block placeholder [#655](https://github.com/netrivet/prophoto-issues/issues/655)
 * fix major javascript error when trying to render gallery with zero images [#652](https://github.com/netrivet/prophoto-issues/issues/652)

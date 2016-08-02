@@ -8,10 +8,13 @@ Features, enhancements, & bugfixes (8/2/16)
 * **New feature:** Customizable form submission email subject & body [#551](https://github.com/netrivet/prophoto-issues/issues/551)
 * **New feature:** Find all template background images from site front toolbar & click to edit [#637](https://github.com/netrivet/prophoto-issues/issues/637)
 * **New feature:** Front-end ProPhoto bar inspect mode inspects and links to blocks, rows, columns, & widgets [#636](https://github.com/netrivet/prophoto-issues/issues/636)
+* **New feature:** Form submission success & error redirect urls [#599](https://github.com/netrivet/prophoto-issues/issues/599)
 * *Enhancement:* Add domain-based email `sendfrom` and remote email sending to improve email delivery rates [#641](https://github.com/netrivet/prophoto-issues/issues/641)
+* *Enhancement:* Override form notification email recipeient on a per-form basis
 * *Enhancement:* Don't close customization modals when clicking "save" [#465](https://github.com/netrivet/prophoto-issues/issues/465)
 * *Enhancement:* Add toggle for excerpt "read more" link [#575](https://github.com/netrivet/prophoto-issues/issues/575)
 * *Enhancement:* Add default "read more" link font styles to included designs
+* *Enhancement:* Power customizer state through url route to allow direct linking to any state
 * fix google/statcounter analytics wrongly counting admin visits [#656](https://github.com/netrivet/prophoto-issues/issues/656)
 * fix incorrect sizing of sticky-block placeholder [#655](https://github.com/netrivet/prophoto-issues/issues/655)
 * fix major javascript error when trying to render gallery with zero images [#652](https://github.com/netrivet/prophoto-issues/issues/652)

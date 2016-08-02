@@ -16,6 +16,7 @@ Features, enhancements, & bugfixes (8/2/16)
 * fix incorrect sizing of sticky-block placeholder [#655](https://github.com/netrivet/prophoto-issues/issues/655)
 * fix major javascript error when trying to render gallery with zero images [#652](https://github.com/netrivet/prophoto-issues/issues/652)
 * isolate javascript modules to prevent error in one from bringing down others [#653](https://github.com/netrivet/prophoto-issues/issues/653)
+* fix error loading image in customizer if filename contained comma [#648](https://github.com/netrivet/prophoto-issues/issues/648)
 
 ### 6.6.5
 

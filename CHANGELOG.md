@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.7.1
+
+Bugfix (8/3/16)
+
+* fix inability to load Call-to-Action appearance & assignments areas in customizer since `6.7.0`
+
 ### 6.7.0
 
 Features, enhancements, & bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-7-0/) (8/2/16)

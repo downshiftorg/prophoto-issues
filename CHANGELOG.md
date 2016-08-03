@@ -2,7 +2,7 @@
 
 ### 6.7.0
 
-Features, enhancements, & bugfixes (8/2/16)
+Features, enhancements, & bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-7-0/) (8/2/16)
 
 * **New feature:** Design _on-boarding_ wizard to guide through front page & template assignments [#638](https://github.com/netrivet/prophoto-issues/issues/638)
 * **New feature:** Customizable form submission email subject & body [#551](https://github.com/netrivet/prophoto-issues/issues/551)

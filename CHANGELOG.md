@@ -1,5 +1,13 @@
 # Changelog
 
+### 6.7.2
+
+Bugfixes (8/4/16)
+
+* fix wrong layout rendered when returning to layout component after switching templates
+* fix tooltip alignment for add-row elements
+* fix bug that can cause very small tile borders to be invisible
+
 ### 6.7.1
 
 Bugfix (8/3/16)

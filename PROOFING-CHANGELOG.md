@@ -1,5 +1,19 @@
 # Proofing Changelog
 
+### 6.0.0-beta20
+
+Bugfixes & enhancements (8/3/16)
+
+* *Enhancement:* support more PayPal currencies
+* *Enhancement:* redirect user to "show all" screen after removing last image from filtered collection
+* fix non-working default exif-data enable/disable value
+* update admin link into customizer to match ProPhoto `6.7.0` routing
+* fix problem with bottom value of shipping total cost table admin area
+* remove unused product variation description
+* improve close modal tooltip language
+* fix changing of product quantity from view-cart modal
+* fix edit gallery page metabox help icons behavior
+
 ### 6.0.0-beta19
 
 Bugfixes (7/25/16)

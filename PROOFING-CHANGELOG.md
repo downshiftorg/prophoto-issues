@@ -1,5 +1,12 @@
 # Proofing Changelog
 
+### 6.0.0-beta21
+
+Bugfixes (8/5/16)
+
+* always allow non-logged in user to download individual image if download is set to be free for all visitors
+* fix post-save display of shipping cost table input box
+
 ### 6.0.0-beta20
 
 Bugfixes & enhancements (8/3/16)

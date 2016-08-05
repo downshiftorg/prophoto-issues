@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.7.3
+
+Bugfix (8/5/16)
+
+* fix error that cause proofing users to not see their orders
+
 ### 6.7.2
 
 Bugfixes (8/4/16)

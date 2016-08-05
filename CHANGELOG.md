@@ -4,7 +4,7 @@
 
 Bugfix (8/5/16)
 
-* fix error that cause proofing users to not see their orders
+* fix error that caused proofing plugin users to not see their orders
 
 ### 6.7.2
 

@@ -1,5 +1,11 @@
 # Proofing Changelog
 
+### 6.0.0-beta22
+
+Forward compatibility (8/8/16)
+
+* update file for future-compatibility with ProPhoto `6.9.0`
+
 ### 6.0.0-beta21
 
 Bugfixes (8/5/16)

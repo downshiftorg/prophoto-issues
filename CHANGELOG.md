@@ -1,5 +1,14 @@
 # Changelog
 
+### 6.8.0
+
+Features, enhancements, & bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-8-0/) (8/9/16)
+
+* **New feature:** Image lazyloading (currently disabled by default) [#410](https://github.com/netrivet/prophoto-issues/issues/410)
+* *Enhancement:* Design onboarding menu-item step for connecting content menu items [#639](https://github.com/netrivet/prophoto-issues/issues/639)
+* *Enhancement:* Improve usability of included "Morgan" design with simpler templates and better interitance
+* fix thumbnail gallery and grid images not being included in right-click image protection [#665](https://github.com/netrivet/prophoto-issues/issues/665)
+
 ### 6.7.3
 
 Bugfix (8/5/16)

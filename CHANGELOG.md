@@ -6,7 +6,7 @@ Features, enhancements, & bugfixes (8/9/16)
 
 * **New feature:** Image lazyloading (currently disabled by default) [#410](https://github.com/netrivet/prophoto-issues/issues/410)
 * *Enhancement:* Design onboarding menu-item step for connecting content menu items [#639](https://github.com/netrivet/prophoto-issues/issues/639)
-* *Enhancement:* Improve usability of included "Morgan" design with simpler templates and better interitance
+* *Enhancement:* Improve usability of included "Morgan" design with simpler templates and better inheritance
 * *Enhancement:* Add a "blog" menu item type that always links to blog posts page
 * fix thumbnail gallery and grid images not being included in right-click image protection [#665](https://github.com/netrivet/prophoto-issues/issues/665)
 * add widget labels for grid widgets replaced by text placeholders

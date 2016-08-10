@@ -2,7 +2,7 @@
 
 ### 6.8.0
 
-Features, enhancements, & bugfixes (8/9/16)
+Features, enhancements, & bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-8-0/) (8/10/16)
 
 * **New feature:** Image lazyloading (currently disabled by default) [#410](https://github.com/netrivet/prophoto-issues/issues/410)
 * *Enhancement:* Design onboarding menu-item step for connecting content menu items [#639](https://github.com/netrivet/prophoto-issues/issues/639)

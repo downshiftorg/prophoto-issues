@@ -1,5 +1,12 @@
 # Proofing Changelog
 
+### 6.0.0-beta23
+
+Bugfixes (8/10/16)
+
+* fix rare loophole where used-up discount code could be applied to cart total
+* fix font-style applied to single modal sidebar title
+
 ### 6.0.0-beta22
 
 Forward compatibility (8/8/16)

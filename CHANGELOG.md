@@ -1,5 +1,12 @@
 # Changelog
 
+### 6.9.0
+
+New features (8/15/16)
+
+* **New feature:** Support for WPML multi-language plugin [#235](https://github.com/netrivet/prophoto-issues/issues/235)
+* **New feature:** Forms now offer multiple-choice (radio) and select dropdown field options [#577](https://github.com/netrivet/prophoto-issues/issues/577)
+
 ### 6.8.0
 
 Features, enhancements, & bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-8-0/) (8/10/16)

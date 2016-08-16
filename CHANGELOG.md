@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.9.1
+
+Bugfix (8/16/2016)
+
+* fix custom grid items showing title twice instead of title and text
+
 ### 6.9.0
 
 New features -- [Blog post](https://www.prophoto.com/blog/prophoto-6-9-0/) (8/15/16)

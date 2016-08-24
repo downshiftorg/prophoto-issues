@@ -1,5 +1,12 @@
 # Proofing Changelog
 
+### 6.0.0-beta24
+
+Bugfix & enhancement (8/24/16)
+
+* fix issue on certain servers where admin pre-emptive creation of image sizes hangs on first image
+* significantly speed up admin pre-emptive creation of image sizes
+
 ### 6.0.0-beta23
 
 Bugfixes (8/10/16)

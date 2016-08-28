@@ -1,5 +1,11 @@
 # Proofing Changelog
 
+### 6.0.0-beta25
+
+Color opacity compatibility (8/31/16)
+
+* support opacity options for all colors for pp `6.10.0`
+
 ### 6.0.0-beta24
 
 Bugfix & enhancement (8/24/16)

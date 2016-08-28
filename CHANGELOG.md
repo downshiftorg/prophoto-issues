@@ -1,5 +1,29 @@
 # Changelog
 
+### 6.10.0
+
+New features, enhancements, and bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-10-0/) (8/31/16)
+
+* **New feature:** Use tile or image for custom form _submit_ button [#550](https://github.com/netrivet/prophoto-issues/issues/550)
+* **New feature:** Support opacity option for every customizable color [#430](https://github.com/netrivet/prophoto-issues/issues/430)
+* **New feature:** Column border customizations [#314](https://github.com/netrivet/prophoto-issues/issues/314)
+* *Enhancement:* Clarify customization UI when customizations inheriting from parent template [#521](https://github.com/netrivet/prophoto-issues/issues/521)
+* *Enhancement:* Allow toggling of grid item optional text in every situation [#674](https://github.com/netrivet/prophoto-issues/issues/674)
+* *Enhancement:* Allow clicking directly to where inherited customization is coming from in tooltip [#225](https://github.com/netrivet/prophoto-issues/issues/225)
+* *Enhancement:* Add clickable breadcrumbs for template/block/row/column items
+* *Enhancement:* Use image from embedded gallery as post excerpt image when no other image present [#438](https://github.com/netrivet/prophoto-issues/issues/438)
+* *Enhancement:* Ensure grids that don't take up full width of context are centered [#333](https://github.com/netrivet/prophoto-issues/issues/333)
+* *Enhancement:* Only permit renaming blocks at highest template level to prevent the illusion of upward inheritance
+* fix cropped grids not keeping rows even when differing amounts of text [#421](https://github.com/netrivet/prophoto-issues/issues/421)
+* fix password protected galleries not showing password form [#682](https://github.com/netrivet/prophoto-issues/issues/682)
+* fix problem with translated `page for posts` in WPML [#681](https://github.com/netrivet/prophoto-issues/issues/681)
+* ensure custom grid item opens in new window/tab when set to [#673](https://github.com/netrivet/prophoto-issues/issues/673)
+* fix a few fringe problems with form remote email sending [#672](https://github.com/netrivet/prophoto-issues/issues/672)
+* improve handling of timezone for form submissions [#667](https://github.com/netrivet/prophoto-issues/issues/667)
+* fix application of template-specific watermarking settings [#670](https://github.com/netrivet/prophoto-issues/issues/670)
+* fix rare circumstance where ProPhoto bar would not be shown if theme file editing disabled
+
+
 ### 6.9.1
 
 Bugfix (8/16/2016)

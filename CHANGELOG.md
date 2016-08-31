@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.10.1
+
+Bugfix (8/31/2016)
+
+* fix empty space below grid in certain scenarios (introduced in 6.10.0)
+
 ### 6.10.0
 
 New features, enhancements, and bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-10-0/) (8/31/16)

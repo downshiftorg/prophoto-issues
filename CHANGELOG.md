@@ -1,5 +1,14 @@
 # Changelog
 
+### 6.10.2
+
+Bugfix (9/1/2016)
+
+* fix galleries showing up empty in non-primary lanugage when using WPML
+* fix incorrect front page displaying when using WMPL string translation
+* fix overlay grid background color not displaying after 6.10 update
+
+
 ### 6.10.1
 
 Bugfix (8/31/2016)

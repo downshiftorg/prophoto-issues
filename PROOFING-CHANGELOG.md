@@ -1,5 +1,12 @@
 # Proofing Changelog
 
+### 6.0.0-beta26
+
+Bugfixes (9/6/16)
+
+* prevent sending digital download emails for orders with zero digital downloads
+* fix initial state of collection enable/disable toggle for new galleries
+
 ### 6.0.0-beta25
 
 Color opacity compatibility (8/31/16)

@@ -1,5 +1,20 @@
 # Changelog
 
+### 6.11.0
+
+Features and bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-11-0/) (9/8/16)
+
+* **New feature:** Pinterest pinning of individual site images [#229](https://github.com/netrivet/prophoto-issues/issues/229)
+* **New feature:** Toggle visibility of nested items in mobile/vertical menu [#282](https://github.com/netrivet/prophoto-issues/issues/282)
+* *Enhancement:* allow aligning mobile menu and hamburger icon on site right side
+* *Enhancement:* allow translating of menu item and graphic widget urls for WPML [#695](https://github.com/netrivet/prophoto-issues/issues/REPLACE)
+* fix problem with phantom image attachments being generated when downsizing threshold set very low [#690](https://github.com/netrivet/prophoto-issues/issues/690)
+* fix failure to show customization group "locked" state when jumping between levels with breadcrumbs [#691](https://github.com/netrivet/prophoto-issues/issues/691)
+* fix galleries that hang because of missing thumbnail sizes [#688](https://github.com/netrivet/prophoto-issues/issues/REPLACE)
+* fix grid display bug when sizing constraints set extremely narrow [#692](https://github.com/netrivet/prophoto-issues/issues/692)
+* fix problem importing remote design assets from `us-east-1` Amazon S3 region
+* fix display of form submission email subjects to honor timezone setting [#694](https://github.com/netrivet/prophoto-issues/issues/694)
+
 ### 6.10.2
 
 Bugfix (9/1/2016)
@@ -7,7 +22,6 @@ Bugfix (9/1/2016)
 * fix galleries showing up empty in non-primary lanugage when using WPML
 * fix incorrect front page displaying when using WMPL string translation
 * fix overlay grid background color not displaying after 6.10 update
-
 
 ### 6.10.1
 

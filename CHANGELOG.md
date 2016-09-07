@@ -2,7 +2,7 @@
 
 ### 6.11.0
 
-Features and bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-11-0/) (9/8/16)
+Features, enhancements and bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-11-0/) (9/8/16)
 
 * **New feature:** Pinterest pinning of individual site images [#229](https://github.com/netrivet/prophoto-issues/issues/229)
 * **New feature:** Toggle visibility of nested items in mobile/vertical menu [#282](https://github.com/netrivet/prophoto-issues/issues/282)

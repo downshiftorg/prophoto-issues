@@ -17,7 +17,7 @@ Features, enhancements and bugfixes -- [Blog post](https://www.prophoto.com/blog
 
 ### 6.10.2
 
-Bugfix (9/1/2016)
+Bugfix (9/1/16)
 
 * fix galleries showing up empty in non-primary lanugage when using WPML
 * fix incorrect front page displaying when using WMPL string translation
@@ -25,7 +25,7 @@ Bugfix (9/1/2016)
 
 ### 6.10.1
 
-Bugfix (8/31/2016)
+Bugfix (8/31/16)
 
 * fix empty space below grid in certain scenarios (introduced in 6.10.0)
 

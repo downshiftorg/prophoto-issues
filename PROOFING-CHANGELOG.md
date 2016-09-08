@@ -1,5 +1,13 @@
 # Proofing Changelog
 
+### 6.0.0-beta27
+
+Bugfixes (9/8/16)
+
+* show admin notice if ProPhoto image downsizing is disabled, which causes problems
+* ensure that gallery images are deleted when gallery is deleted
+* fix problem with invisible product variation text for package products in Firefox
+
 ### 6.0.0-beta26
 
 Bugfixes (9/6/16)

@@ -1,8 +1,15 @@
 # Changelog
 
+### 6.11.1
+
+Enhancement & bugfix (9/8/16)
+
+* *Enhancement:* re-enable Pinterest "pin site image" Call to Action item now that it should be working reliably
+* fix php notice that breaks tile display only when `WP_DEBUG` turned on
+
 ### 6.11.0
 
-Features, enhancements and bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-11-0/) (9/8/16)
+Features, enhancements and bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-11-0/) (9/7/16)
 
 * **New feature:** Pinterest pinning of individual site images [#229](https://github.com/netrivet/prophoto-issues/issues/229)
 * **New feature:** Toggle visibility of nested items in mobile/vertical menu [#282](https://github.com/netrivet/prophoto-issues/issues/282)

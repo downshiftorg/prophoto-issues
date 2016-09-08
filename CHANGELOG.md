@@ -5,7 +5,7 @@
 Enhancement & bugfix (9/8/16)
 
 * *Enhancement:* re-enable Pinterest "pin site image" Call to Action item now that it should be working reliably
-* fix php notice that breaks tile display only when `WP_DEBUG` turned on
+* fix php notice from `6.11.0` that breaks tile display only when `WP_DEBUG` turned on
 
 ### 6.11.0
 

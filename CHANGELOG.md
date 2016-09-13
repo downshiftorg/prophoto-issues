@@ -1,5 +1,20 @@
 # Changelog
 
+### 6.12.0
+
+Features, enhancements and bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-12-0/) (9/14/16)
+
+* **New feature:** Mobile menu toggle can now be a ProPhoto tile with customizeable "active" state [#357](https://github.com/netrivet/prophoto-issues/issues/357)
+* **New feature:** Optional background images for grid items & background color/image for whole grids [#677](https://github.com/netrivet/prophoto-issues/issues/677)
+* *Enhancement:* overlay grid text vertical alignment control [#676](https://github.com/netrivet/prophoto-issues/issues/676)
+* *Enhancement:* control text length of post grid item excerpt text [#678](https://github.com/netrivet/prophoto-issues/issues/678)
+* *Enhancement:* allow uploading of "featured" images for categories, for use in category grids [#592](https://github.com/netrivet/prophoto-issues/issues/592)
+* *Enhancement:* allow uploading of grid item fallback images [#354](https://github.com/netrivet/prophoto-issues/issues/354)
+* fix overlay grid overlays not always perfectly matching size of underlying image [#162](https://github.com/netrivet/prophoto-issues/issues/162)
+* fix WP RSS feed request not redirecting to Feedburner when valid Feedburner url set [#569](https://github.com/netrivet/prophoto-issues/issues/569)
+* fix background color for light-color font-style previews [#696](https://github.com/netrivet/prophoto-issues/issues/696)
+* fix custom grid items set to open link in new page not working for clicks on rollover overlay [#697](https://github.com/netrivet/prophoto-issues/issues/697)
+
 ### 6.11.1
 
 Enhancement & bugfix (9/8/16)

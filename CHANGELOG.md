@@ -1,5 +1,12 @@
 # Changelog
 
+### 6.12.1
+
+Bugfixes
+
+* fix slightly incorrect alignment of vertically centered rollover grid text
+* prevent design on-boarder from hanging when bad menu item data encountered
+
 ### 6.12.0
 
 Features, enhancements and bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-12-0/) (9/14/16)

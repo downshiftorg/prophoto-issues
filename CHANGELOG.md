@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.12.2
+
+Bugfix
+
+* fix errors copying or saving edits to tiles made previous to `6.12.0` [#703](https://github.com/netrivet/prophoto-issues/issues/703)
+
 ### 6.12.1
 
 Bugfixes

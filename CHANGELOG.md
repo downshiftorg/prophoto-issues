@@ -1,5 +1,17 @@
 # Changelog
 
+### 6.13.0
+
+Instagram grid type and bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-13-0/) (9/27/16)
+
+* **New feature:** New grid type: Instagram feed [#241](https://github.com/netrivet/prophoto-issues/issues/241)
+* fix extra spacing for non-overlaid gallery thumbstrips on small devices [#654](https://github.com/netrivet/prophoto-issues/issues/654)
+* fix output of telephone `tel:xxx...` links in graphics widgets [#706](https://github.com/netrivet/prophoto-issues/issues/706)
+* prevent very rare fatal error for hosts without `php-exif` support [#707](https://github.com/netrivet/prophoto-issues/issues/707)
+* fix appearance of "Remove custom font" button on narrow screens [#698](https://github.com/netrivet/prophoto-issues/issues/698)
+* fix appearance of special characters in menu titles [#699](https://github.com/netrivet/prophoto-issues/issues/699)
+* added some tooling for ProPhoto support techs for faster diagnosis of issues
+
 ### 6.12.2
 
 Bugfix

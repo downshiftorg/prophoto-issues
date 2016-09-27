@@ -1,5 +1,17 @@
 # Proofing Changelog
 
+### 6.0.0-beta29
+
+Enhancement (9/27/16)
+
+* retry failed image api requests in admin order screen
+
+### 6.0.0-beta28
+
+Bugfix (9/10/16)
+
+* "no watermark" should be an option for digital download products
+
 ### 6.0.0-beta27
 
 Bugfixes (9/8/16)

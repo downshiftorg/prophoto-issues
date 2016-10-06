@@ -1,5 +1,16 @@
 # Changelog
 
+### 6.13.1
+
+Bugfixes (10/6/16)
+
+* prevent some problems with WMPL's latest update and string auto-registration [#713](https://github.com/netrivet/prophoto-issues/issues/713)
+* prevent multiple customizer sessions from same browser, different tabs [#711](https://github.com/netrivet/prophoto-issues/issues/711)
+* fix harmless but invalid css being generated [#710](https://github.com/netrivet/prophoto-issues/issues/710)
+* fix copied tiles sharing WMPL text layer translation [#708](https://github.com/netrivet/prophoto-issues/issues/708)
+* increase possible max-width for column borders
+* allow viewing pages without all user-supplied custom CSS
+
 ### 6.13.0
 
 Instagram grid type and bugfixes -- [Blog post](https://www.prophoto.com/blog/prophoto-6-13-0/) (9/27/16)

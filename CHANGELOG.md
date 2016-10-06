@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.13.2
+
+Bugfix (10/6/16)
+
+* fix another bug related to new WPML functionality - menu item dynamic children strings continually re-registered
+
 ### 6.13.1
 
 Bugfixes (10/6/16)

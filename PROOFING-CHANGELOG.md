@@ -1,5 +1,33 @@
 # Proofing Changelog
 
+### 6.0.0
+
+Enhancement (10/20/16)
+
+* try to guard against killed processes and surface error messages for user download requests
+
+### 6.0.0-beta32
+
+Bugfix (10/6/16)
+
+* prevent javascript error when resetting cart
+
+### 6.0.0-beta31
+
+Bugfixes (10/5/16)
+
+* fix tiny admin display quirk with very short product names on reorder screen
+* fix broken sortable products due to ProPhoto update
+* prevent carts from getting stuck when products deleted
+
+### 6.0.0-beta30
+
+Bugfixes (9/28/16)
+
+* fix parent galleries with cover photo header and grid-style children
+* fix missing download options for sending images as an admin
+* ensure newly added package item variations are properly stored
+
 ### 6.0.0-beta29
 
 Enhancement (9/27/16)

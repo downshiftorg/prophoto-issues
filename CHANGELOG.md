@@ -1,5 +1,24 @@
 # Changelog
 
+### 6.14.1
+
+Bugfixes (10/20/16)
+
+* fix problem causing fatal error for a percentage of users updating to `6.14.0`
+* directly link to customizer template assignments from post/page template assignment override metabox
+* fix grid widget admin labels being cleared when creating a new grid widget
+
+### 6.14.0
+
+New features (10/19/16)
+
+* **New feature:** Preview and customize non-live designs -- show one design to visitors while you work on another [#542](https://github.com/netrivet/prophoto-issues/issues/542)
+* **New feature:** New "Coming Soon/Maintenance Mode" free design to be used while customizing a different design [#553](https://github.com/netrivet/prophoto-issues/issues/553)
+* **New feature:** Embedded gallery shortcodes now displayed as interactive visual graphic element in post editor [#642](https://github.com/netrivet/prophoto-issues/issues/642)
+* **New feature:** Control visibility of gallery permalink page titles and dates [#365](https://github.com/netrivet/prophoto-issues/issues/365)
+* *Enhancement:* totally re-designed _Manage Designs_ screen with better design, usability & support for customizing non-live designs
+
+
 ### 6.13.2
 
 Bugfix (10/6/16)

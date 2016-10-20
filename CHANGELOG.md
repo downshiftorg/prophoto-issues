@@ -447,4 +447,6 @@ Release, enhancements, & bugfixes (5/24/16)
 * Remove javascript popup prompt for Zendesk help widget email address
 * Don't display input box explanatory help for boxes without help text
 
-_For the pre-release beta changelog, [go here](https://github.com/netrivet/prophoto-issues/blob/master/CHANGELOG-BETA.md).
+### Beta Changelog:
+
+_For the pre-release beta changelog, [go here](https://github.com/netrivet/prophoto-issues/blob/master/CHANGELOG-BETA.md)._

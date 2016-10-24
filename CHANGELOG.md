@@ -16,6 +16,7 @@ New features (10/19/16)
 * **New feature:** New "Coming Soon/Maintenance Mode" free design to be used while customizing a different design [#553](https://github.com/netrivet/prophoto-issues/issues/553)
 * **New feature:** Embedded gallery shortcodes now displayed as interactive visual graphic element in post editor [#642](https://github.com/netrivet/prophoto-issues/issues/642)
 * **New feature:** Control visibility of gallery permalink page titles and dates [#365](https://github.com/netrivet/prophoto-issues/issues/365)
+* **New feature:** Customizing design switcher in customizer and front-end ProPhoto bar
 * *Enhancement:* totally re-designed _Manage Designs_ screen with better design, usability & support for customizing non-live designs
 
 

@@ -1,5 +1,13 @@
 # Changelog
 
+### 6.14.2
+
+Bugfixes (10/27/16)
+
+* fix prophoto bar notifications not staying dismissed for web hosts not supporting http `DELETE` [#719](https://github.com/netrivet/prophoto-issues/issues/719)
+* fix post content image margin incorrectly applying to gallery thumbnails [#720](https://github.com/netrivet/prophoto-issues/issues/720)
+* fix design setup wizard not always on-boarding correct design
+
 ### 6.14.1
 
 Bugfixes (10/20/16)

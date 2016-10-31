@@ -1,5 +1,14 @@
 # Changelog
 
+### 6.14.3
+
+Bugfixes (10/31/16)
+
+* fix bug causing srcset not to choose most optimal image size
+* fix iOS longpress to save image prevented when image protection off [#721](https://github.com/netrivet/prophoto-issues/issues/721)
+* fix duplicated data in Sunny free design that can cause customization problems
+* add support/tech tooling for diagnosing duplicate customization data
+
 ### 6.14.2
 
 Bugfixes (10/27/16)

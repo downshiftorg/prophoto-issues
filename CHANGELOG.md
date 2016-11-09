@@ -1,8 +1,8 @@
 # Changelog
 
-### 6.14.6
+### 6.14.5
 
-Bugfixes (11/19/16)
+Bugfixes (11/9/16)
 
 * fix pinterest pin overlay not rendered for images with no `class` attribute [#727](https://github.com/netrivet/prophoto-issues/issues/727)
 * fix pinit overlay sizing problems for small or right/left aligned images [#726](https://github.com/netrivet/prophoto-issues/issues/726)

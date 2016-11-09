@@ -1,5 +1,22 @@
 # Changelog
 
+### 6.14.6
+
+Bugfixes (11/19/16)
+
+* fix pinterest pin overlay not rendered for images with no `class` attribute [#727](https://github.com/netrivet/prophoto-issues/issues/727)
+* fix pinit overlay sizing problems for small or right/left aligned images [#726](https://github.com/netrivet/prophoto-issues/issues/726)
+* fix layout bug in new version of Chrome causing content to spill below footer
+
+### 6.14.4
+
+Bugfixes (11/4/16)
+
+* enhancement - add classes to rendered form and form elements for custom styling
+* clarify language regarding Facebook comments in customizer
+* fix some HTML validation errors
+* don't show ProPhoto techs ProPhoto bar notifications
+
 ### 6.14.3
 
 Bugfixes (10/31/16)

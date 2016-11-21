@@ -1,5 +1,13 @@
 # Changelog
 
+### 6.14.6
+
+Bugfix & new videos (11/21/16)
+
+* fix padding bug for gallery thumbnail strips on iPads
+* replace post-registration welcome video with updated version
+* embed ProPhoto bar video in ProPhoto bar notification about itself
+
 ### 6.14.5
 
 Bugfixes (11/9/16)

@@ -1,5 +1,30 @@
 # Proofing Changelog
 
+### 6.0.4
+
+Bugfix (11/29/16)
+
+* make sure child galleries respect parent gallery watermark selection
+
+### 6.0.3
+
+Bugfixes (10/27/16)
+
+* fix rare PHP warnings for certain gallery setups
+* allow downloading of images for non-logged-in users when downloads free for all
+
+### 6.0.2
+
+Enhancement (10/26/16)
+
+* switch to communicating with newer, faster, isolated proofing API
+
+### 6.0.1
+
+Bugfix (10/22/16)
+
+* remove debugging code introduced in `6.0.0` causing problems with user download requests
+
 ### 6.0.0
 
 Enhancement (10/20/16)

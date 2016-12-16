@@ -1,5 +1,19 @@
 # Changelog
 
+### 6.14.7
+
+Bugfixes (12/16/16)
+
+* fix bug where pinit overlay tile images were inheriting post image border and margin [#730](https://github.com/netrivet/prophoto-issues/issues/730)
+* add filter to allow plugins to bypass url prefixing
+* fix minor rendering bug in tiles within grids
+* fix bug causing menu drop-downs in non-stuck sticky block to fall behind other items
+* fix sizing bug for pinterest overlay when html attributes constraining image size
+* fix MS Edge flexbox rendering bug for latest build of Edge
+* fix some PHP notices from PHP 7.1 in strict error reporting mode
+* prevent fatal errors caused by deleted pinterest button graphics
+* fix form email time rendering when using UTC offsets [#728](https://github.com/netrivet/prophoto-issues/issues/728)
+
 ### 6.14.6
 
 Bugfix & new videos (11/21/16)

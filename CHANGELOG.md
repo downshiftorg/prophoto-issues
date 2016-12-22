@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.14.8
+
+Bugfix (12/22/16)
+
+* fix Safari rendering bug caused by MS Edge flexbox bugfix from `6.14.7`
+
 ### 6.14.7
 
 Bugfixes (12/16/16)

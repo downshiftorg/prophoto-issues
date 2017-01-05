@@ -1,5 +1,12 @@
 # Changelog
 
+### 6.15.1
+
+Bug fixes (1/5/17)
+
+* fix gallery images wrongly inheriting post image margins since `6.14.7` [#733](https://github.com/netrivet/prophoto-issues/issues/733)
+* fix non-working pinterest default pinit style since `6.15.0` [#732](https://github.com/netrivet/prophoto-issues/issues/732)
+
 ### 6.15.0
 
 Domain change (12/27/16)

@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.15.0
+
+Domain change (12/27/16)
+
+* compatibility with new pro.photo domain and API infrastructure
+
 ### 6.14.8
 
 Bugfix (12/22/16)

@@ -1,5 +1,12 @@
 # Changelog
 
+### 6.15.2
+
+Bugfixes (1/13/17)
+
+* change session token storage to work around buggy host/plugin code which caused repeated "Let me customize" warnings
+* fixed bug causing Call to Action items to render on static home page when not set to in some cases
+
 ### 6.15.1
 
 Bug fixes (1/5/17)

@@ -1,5 +1,13 @@
 # Changelog
 
+### 6.15.3
+
+Bugfixes (1/18/17)
+
+* fix bug that could cause galleries inserted into posts to be deleted in some circumstances while editing post/page
+* fix bug with sticky-block menus falling behind tiles in Safari
+* added support tooling enhancements
+
 ### 6.15.2
 
 Bugfixes (1/13/17)

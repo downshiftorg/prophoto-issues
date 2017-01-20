@@ -1,5 +1,36 @@
 # Proofing Changelog
 
+### 6.0.9
+
+Bugfix (1/20/17)
+
+* fix non-working option to always show collection icon when not hovered, when image added to collection
+
+### 6.0.8
+
+Site compatibility (12/28/16)
+
+* ensure compatibility with new pro.photo site relaunch
+
+### 6.0.7
+
+Bugfix (12/15/16)
+
+* fix more non-localized prices in order reports, for individual cart line items
+
+### 6.0.6
+
+Bugfixes (12/13/16)
+
+* ensure order reports use correct localized currency
+* ensure order reports contain phone number when present
+
+### 6.0.5
+
+Bugfix (12/7/16)
+
+* fix rendering bug with cover photo overlay appearance
+
 ### 6.0.4
 
 Bugfix (11/29/16)

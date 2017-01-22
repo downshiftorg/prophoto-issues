@@ -1,5 +1,11 @@
 # Proofing Changelog
 
+### 6.0.10
+
+Bugfix (1/22/17)
+
+* fix rare problem where image downsizing threshold could cause delivery of original images when not desired
+
 ### 6.0.9
 
 Bugfix (1/20/17)

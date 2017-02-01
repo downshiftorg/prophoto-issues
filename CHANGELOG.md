@@ -1,5 +1,19 @@
 # Changelog
 
+### 6.15.4
+
+Bugfixes (2/1/17)
+
+* fix 2 bugs that cause newly added premium designs or newly copied designs from being immediately visible
+* fix a problem with corrupted strings when lower-casing Cyrillic and other UTF-8 strings
+* fix error copying widgets between templates when target template has no widget of same type
+* fix bug exporting designs with `.woff` custom fonts that could cause import and customization problems
+* prevent rare scenarios where users could delete active design
+* attempt to recover from scenario where the active design could not be loaded
+* add "Cache-safe CSS" feature mode to help with poorly implemented caching layers
+* fix rare bug with sticky blocks and window resize events
+* don't use position:sticky for sticky blocks when within an iframe because of Safari bug
+
 ### 6.15.3
 
 Bugfixes (1/18/17)

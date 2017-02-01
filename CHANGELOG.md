@@ -10,7 +10,7 @@ Bugfixes (2/1/17)
 * fix bug exporting designs with `.woff` custom fonts that could cause import and customization problems
 * prevent rare scenarios where users could delete active design
 * attempt to recover from scenario where the active design could not be loaded
-* add "Cache-safe CSS" feature mode to help with poorly implemented caching layers
+* add "Cache-safe CSS" mode to help with poorly implemented caching layers
 * fix rare bug with sticky blocks and window resize events
 * don't use position:sticky for sticky blocks when within an iframe because of Safari bug
 

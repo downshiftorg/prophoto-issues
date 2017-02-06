@@ -1,5 +1,12 @@
 # Changelog
 
+### 6.15.5
+
+Bugfixes (2/6/17)
+
+* fix error loading customizer for rare users missing PHP multi-byte string functions, introduced in `6.15.4`
+* fix creation of "Recent posts from category" grid when first category never changed
+
 ### 6.15.4
 
 Bugfixes (2/1/17)

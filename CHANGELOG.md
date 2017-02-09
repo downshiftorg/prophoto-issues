@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.15.6
+
+Bugfix (2/9/17)
+
+* workaround bug in new version of Chrome (56) causing problems with sticky blocks
+
 ### 6.15.5
 
 Bugfixes (2/6/17)

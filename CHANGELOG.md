@@ -4,7 +4,7 @@
 
 Bugfix (2/10/17)
 
-* fix additional problem with clicking menut items in sticky blocks caused by new version of Chrome (56)
+* fix additional problem with clicking menu items in sticky blocks caused by new version of Chrome (56)
 
 ### 6.15.6
 

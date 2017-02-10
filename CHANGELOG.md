@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.15.7
+
+Bugfix (2/10/17)
+
+* fix additional problem with clicking menut items in sticky blocks caused by new version of Chrome (56)
+
 ### 6.15.6
 
 Bugfix (2/9/17)

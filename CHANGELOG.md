@@ -2,14 +2,14 @@
 
 ### 6.16.0
 
-New features, enhancements, & bugfixes -- [Blog post](https://pro.photo/blog/prophoto-6-16-0) (2/27/17)
+New features, enhancements, & bugfixes -- [Blog post](https://pro.photo/blog/prophoto-6-16-0) (2/23/17)
 
-* *New feature:* WooCommerce support [#723](https://github.com/netrivet/prophoto-issues/issues/723)
-* *New feature:* Significantly updated versions of free included designs [Sunny](https://pro.photo/design/sunny/demo) and [Square](https://pro.photo/design/sunny/square), with more templates & leveraging more recent ProPhoto features
-* *New feature:* Allow constraining gallery vertical height to percentage of window height [#627](https://github.com/netrivet/prophoto-issues/issues/627)
-* *New feature:* Allow inserting of gallery as ordered full-size images into posts & pages [#715](https://github.com/netrivet/prophoto-issues/issues/715)
-* *New feature:* Custom upload for Facebook blog posts page preview image [#566](https://github.com/netrivet/prophoto-issues/issues/566)
-* *New feature:* Optionally disable all ProPhoto Facebook preview `og:meta`	to allow plugin override without duplicate meta tags [#724](https://github.com/netrivet/prophoto-issues/issues/724)
+* **New feature:** WooCommerce support [#723](https://github.com/netrivet/prophoto-issues/issues/723)
+* **New feature:** Significantly updated versions of free included designs [Sunny](https://pro.photo/design/sunny/demo) and [Square](https://pro.photo/design/sunny/square), with more templates & leveraging more recent ProPhoto features
+* **New feature:** Allow constraining gallery vertical height to percentage of window height [#627](https://github.com/netrivet/prophoto-issues/issues/627)
+* **New feature:** Allow inserting of gallery as ordered full-size images into posts & pages [#715](https://github.com/netrivet/prophoto-issues/issues/715)
+* **New feature:** Custom upload for Facebook blog posts page preview image [#566](https://github.com/netrivet/prophoto-issues/issues/566)
+* **New feature:** Optionally disable all ProPhoto Facebook preview `og:meta`	to allow plugin override without duplicate meta tags [#724](https://github.com/netrivet/prophoto-issues/issues/724)
 * _Enhancement:_ Add support for Facebook `og:image:width` and `og:image:height` for better first-time sharing previews
 * fix animation jitter in galleries during lazy gallery page loading
 * fix problem with letterspacing in font-styles for tiles [#562](https://github.com/netrivet/prophoto-issues/issues/562)

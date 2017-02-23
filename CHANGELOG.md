@@ -1,5 +1,28 @@
 # Changelog
 
+### 6.16.0
+
+New features, enhancements, & bugfixes -- [Blog post](https://pro.photo/blog/prophoto-6-16-0) (2/27/17)
+
+* *New feature:* WooCommerce support [#723](https://github.com/netrivet/prophoto-issues/issues/723)
+* *New feature:* Significantly updated versions of free included designs [Sunny](https://pro.photo/design/sunny/demo) and [Square](https://pro.photo/design/sunny/square), with more templates & leveraging more recent ProPhoto features
+* *New feature:* Allow constraining gallery vertical height to percentage of window height [#627](https://github.com/netrivet/prophoto-issues/issues/627)
+* *New feature:* Allow inserting of gallery as ordered full-size images into posts & pages [#715](https://github.com/netrivet/prophoto-issues/issues/715)
+* *New feature:* Custom upload for Facebook blog posts page preview image [#566](https://github.com/netrivet/prophoto-issues/issues/566)
+* *New feature:* Optionally disable all ProPhoto Facebook preview `og:meta`	to allow plugin override without duplicate meta tags [#724](https://github.com/netrivet/prophoto-issues/issues/724)
+* _Enhancement:_ Add support for Facebook `og:image:width` and `og:image:height` for better first-time sharing previews
+* fix animation jitter in galleries during lazy gallery page loading
+* fix problem with letterspacing in font-styles for tiles [#562](https://github.com/netrivet/prophoto-issues/issues/562)
+* fix rare possibility of CSS being generated for wrong design caused by caching layers [#738](https://github.com/netrivet/prophoto-issues/issues/738)
+* fix intermittent sizing issues in galleries on Safari [#513](https://github.com/netrivet/prophoto-issues/issues/513)
+* fix font-style _word-spacing_ attribute not applying on site front
+* prevent rare Safari tile rendering problems caused by uneccessary trailing `<br />` tags in tile text layers
+* add safegaurd against extremetly rare problem with corrupt text widget strings causing loss of all text widget data
+* fix lack of styling for logged-out commenting explanatory text
+* optimize image lazy-load counting to prevent rare problems with element sizing near site header
+* fix rare bug for users on outdated PHP builds missing PHP multi-byte string support
+* prevent tile rendering problems in Firefox and older IE versions when text overflows tile before scaling
+
 ### 6.15.7
 
 Bugfix (2/10/17)

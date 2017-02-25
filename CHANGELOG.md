@@ -22,6 +22,8 @@ New features, enhancements, & bugfixes -- [Blog post](https://pro.photo/blog/pro
 * optimize image lazy-load counting to prevent rare problems with element sizing near site header
 * fix rare bug for users on outdated PHP builds missing PHP multi-byte string support
 * prevent tile rendering problems in Firefox and older IE versions when text overflows tile before scaling
+* fix error preventing admin deleting ProPhoto downsized/modified images from settings area
+* fix bug causing full-window galleries to display _behind_ sticky blocks
 
 ### 6.15.7
 

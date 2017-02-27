@@ -1,8 +1,14 @@
 # Changelog
 
+### 6.16.1
+
+Performance enhancement
+
+* improved gallery perfomance on mobile devices
+
 ### 6.16.0
 
-New features, enhancements, & bugfixes -- [Blog post](https://pro.photo/blog/prophoto-6-16-0) (2/23/17)
+New features, enhancements, & bugfixes -- [Blog post](https://pro.photo/blog/prophoto-6-16-0) (2/24/17)
 
 * **New feature:** WooCommerce support [#723](https://github.com/netrivet/prophoto-issues/issues/723)
 * **New feature:** Significantly updated versions of free included designs [Sunny](https://pro.photo/design/sunny/demo) and [Square](https://pro.photo/design/sunny/square), with more templates & leveraging more recent ProPhoto features

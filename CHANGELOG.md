@@ -1,8 +1,17 @@
 # Changelog
 
+### 6.16.2
+
+Bugfix & caching compatibility (3/1/17)
+
+* fix a bug introduced by `6.16.0` where gallery would resize when encountering images with different aspect ratios
+* attempt to clear various possible caching layers when the admin is making customizations
+* prevent caching of password-protected posts
+* workaround issue with WP Super Cache sending template css with incorrect header
+
 ### 6.16.1
 
-Performance enhancement
+Performance enhancement (2/27/17)
 
 * improved gallery perfomance on mobile devices
 

@@ -7,7 +7,7 @@ Bugfix & caching compatibility (3/1/17)
 * fix a bug introduced by `6.16.0` where gallery would resize when encountering images with different aspect ratios
 * attempt to clear various possible caching layers when the admin is making customizations
 * prevent caching of password-protected posts
-* workaround issue with WP Super Cache sending template css with incorrect header
+* workaround issue with WP Super Cache sending template css with incorrect content-type
 
 ### 6.16.1
 

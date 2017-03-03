@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.16.3
+
+Bugfix (3/3/17)
+
+* work around memory issues causing crashing on mobile safari with large crossfade galleries [#742](https://github.com/netrivet/prophoto-issues/issues/742)
+
 ### 6.16.2
 
 Bugfix & caching compatibility (3/1/17)

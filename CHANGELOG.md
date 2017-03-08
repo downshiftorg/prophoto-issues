@@ -1,5 +1,14 @@
 # Changelog
 
+### 6.17.0
+
+New features -- [Blog post](https://pro.photo/blog/prophoto-6-17-0) (3/8/17)
+
+* **New feature:** Create ProPhoto galleries from post/page edit screen [#527](https://github.com/netrivet/prophoto-issues/issues/527)
+* **New feature:** Allow collapsing of blocks in customizer, remembering selection between templates and sessions [#463](https://github.com/netrivet/prophoto-issues/issues/463)
+* **New feature:** Set image alt attribute text for image widgets [#725](https://github.com/netrivet/prophoto-issues/issues/725)
+* **New feature:** Image protection attempts to prevent drag/drop of protected images [#594](https://github.com/netrivet/prophoto-issues/issues/594)
+
 ### 6.16.3
 
 Bugfix (3/3/17)

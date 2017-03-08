@@ -1,5 +1,15 @@
 # Proofing Changelog
 
+### 6.0.11
+
+Bugfixes (3/8/17)
+
+* fix issue where admin-generated email of order images could include non-purchased images
+* fix rare problem with registration incorrectly indicating invalid registration id
+* prevent some problems with image order zips caused by caching plugins
+* ensure protected gallery landing pages from password shortcode can display large numbers of galleries
+* prevent some rare PHP warnings from incorrect/corrupt order data
+
 ### 6.0.10
 
 Bugfix (1/22/17)

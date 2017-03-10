@@ -1,5 +1,15 @@
 # Changelog
 
+### 6.17.1
+
+Bugfixes
+
+* show users incompatible WordPress message if less than WordPress `4.4.0`
+* fix bug causing Call-to-action items to not render on gallery pages
+* fix bug with title tags on paged page-types older than first page
+* fix bug for proofing users unable to upload images to proofing images
+* update outdated url for finding Facebook admin id
+
 ### 6.17.0
 
 New features -- [Blog post](https://pro.photo/blog/prophoto-6-17-0) (3/8/17)

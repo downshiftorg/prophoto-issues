@@ -1,5 +1,11 @@
 # Proofing Changelog
 
+### 6.0.12
+
+Enhancement (3/10/17)
+
+* clarify requirement of WordPress version of at least `4.4.0`, bailing if not compatible
+
 ### 6.0.11
 
 Bugfixes (3/8/17)

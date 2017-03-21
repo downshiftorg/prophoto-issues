@@ -1,8 +1,18 @@
 # Changelog
 
+### 6.17.2
+
+Bugfixes (3/21/17)
+
+* fix Pinterest pin single image tile/image margin customizations not taking effect
+* fix occasionaly bug uploading image for featured image from post/page editor screen
+* fix tile bug in Internet Explorer when image are scaled down in size
+* workaround issue with Pinterest not accepting dynamic image creation endpoints
+* updated tutorial link in ProPhoto settings area
+
 ### 6.17.1
 
-Bugfixes
+Bugfixes (3/11/17)
 
 * show users incompatible WordPress message if less than WordPress `4.4.0`
 * fix bug causing Call-to-action items to not render on gallery pages

@@ -1,5 +1,11 @@
 # Proofing Changelog
 
+### 6.0.13
+
+Enhancement (3/21/17)
+
+* prevent image zip order problems caused by setting watermark to design watermark when no watermark set for design
+
 ### 6.0.12
 
 Enhancement (3/10/17)

@@ -4,11 +4,14 @@
 
 Bugfixes (3/21/17)
 
+* fix bug with contact form slow submission processing when combined with CloudFlare
 * fix Pinterest pin single image tile/image margin customizations not taking effect
 * fix occasional bug uploading image for featured image from post/page editor screen
 * fix tile bug in Internet Explorer when images are scaled down in size
 * workaround issue with Pinterest not accepting dynamic image creation endpoints
 * updated tutorial link in ProPhoto settings area
+* slightly improve admin performance by being more selective about when to flush rewrite rules
+* clear cache from "WP Fastest Cache" when customizations made
 
 ### 6.17.1
 

@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.17.3
+
+Security fix (3/22/17)
+
+* prevent an unauthorized request from exposing data that should be only visible to admins
+
 ### 6.17.2
 
 Bugfixes (3/21/17)

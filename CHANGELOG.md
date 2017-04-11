@@ -1,5 +1,22 @@
 # Changelog
 
+### 6.18.0
+
+New features -- [Blog post](https://pro.photo/blog/prophoto-6-18-0) (4/12/17)
+
+* **New feature:** New gallery style: Carousel [#453](https://github.com/netrivet/prophoto-issues/issues/453)
+* **New feature:** Video backgrounds for blocks from uploaded mp4s, YouTube, Vimeo [#363](https://github.com/netrivet/prophoto-issues/issues/363)
+* **New feature:** New video widget - simplifies embedding videos from YouTube/Vimeo responsively
+* **New feature:** Built-in page caching for speed improvement [#747](https://github.com/netrivet/prophoto-issues/issues/747)
+* **New feature:** Customizable widths for ProPhoto form field elements [#580](https://github.com/netrivet/prophoto-issues/issues/580)
+* fix bug with certain combinations archive excerpts display settings [#751](https://github.com/netrivet/prophoto-issues/issues/751)
+* switched to composer class-map auto-loading for page load speed improvement
+* removed many uneccesary files not used in production for faster/safer auto-updates
+* optimize number and timing of requests made by customizer to help hosts that struggle with concurrency
+* fix rare bug exporting designs with Call-to-Action items and `WP_DEBUG` enabled
+* fix grid retina image functionality for newer devices with very high pixel density ratios
+* fix bug with logged contact form submissions displaying fields out of order when > 8 form fields
+
 ### 6.17.3
 
 Security fix (3/22/17)

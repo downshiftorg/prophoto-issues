@@ -1,8 +1,17 @@
 # Changelog
 
+### 6.18.1
+
+Bugfixes (4/12/17)
+
+* fix display problem with carousel galleries due to build error
+* prevent ProPhoto from attempting to cache rest api routes
+* toggle hamburger toggle button state when swiping to open/close mobile menu
+* fix post page gallery creation and rest request errors for users with outdated versions of WordPress
+
 ### 6.18.0
 
-New features -- [Blog post](https://pro.photo/blog/prophoto-6-18-0) (4/12/17)
+New features -- [Blog post](https://pro.photo/blog/prophoto-6-18-0) (4/11/17)
 
 * **New feature:** New gallery style: Carousel [#453](https://github.com/netrivet/prophoto-issues/issues/453)
 * **New feature:** Video backgrounds for blocks from uploaded mp4s, YouTube, Vimeo [#363](https://github.com/netrivet/prophoto-issues/issues/363)

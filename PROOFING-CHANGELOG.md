@@ -2,7 +2,7 @@
 
 ### 6.0.14
 
-Enhancement (4/19/17)
+Bugfixes (4/19/17)
 
 * fix problem showing proofing galleries archives as grid since ProPhoto `6.18.0`
 * fix compatibility problem with ProPhoto `6.18.x` causing individual downloading of images to fail

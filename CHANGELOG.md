@@ -1,5 +1,14 @@
 # Changelog
 
+### 6.18.2
+
+Bugfixes (4/19/17)
+
+* workaround plugins flushing rewrite rules in a way that results in ProPhoto gallery permalink 404 errors
+* add filter for plugins to influence display of excerpts
+* remove whitespace in tile text layers to prevent very rare rendering bugs in Edge
+* better handle absolute urls with scroll-to hashes
+
 ### 6.18.1
 
 Bugfixes (4/12/17)

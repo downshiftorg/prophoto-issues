@@ -1,5 +1,30 @@
 # Changelog
 
+### 6.19.0
+
+New features -- [Blog post](https://pro.photo/blog/prophoto-6-19-0) (5/3/17)
+
+* **New feature:** Widget visibility animations [#746](https://github.com/netrivet/prophoto-issues/issues/746)
+* **New feature:** Featured image background images & widget [#371](https://github.com/netrivet/prophoto-issues/issues/371)
+* **New feature:** Copy/paste blocks, rows, and columns in the customizer [#474](https://github.com/netrivet/prophoto-issues/issues/474)
+* **New feature:** Numbered pagination for older/newer posts [#352](https://github.com/netrivet/prophoto-issues/issues/352)
+* **New feature:** Significantly expanded customization options for ProPhoto forms [#447](https://github.com/netrivet/prophoto-issues/issues/447)
+* **New feature:** Customizer onboarding wizard [#744](https://github.com/netrivet/prophoto-issues/issues/744)
+* **New feature:** New "Post header widget" allows for placing post/page header in custom locations
+* **New feature:** New "Spacer widget" for fine-grained overrides of widget spacing
+* **New feature:** New menu item type: Custom text -- for non-linking menu items and custom containers [#589](https://github.com/netrivet/prophoto-issues/issues/589)
+* fix bug displaying uploaded Facebook blog posts page preview image
+* fix bug with non-inheriting form customization settings & repair broken designs
+* fix auto-update logic issue for proofing plugin users
+* images inside a sticky block should never be lazy-loaded to prevent sizing issues
+* ensure compatibility with Yoast SEO plugin's configurator page
+* fix post-separator showing after last post on page [#268](https://github.com/netrivet/prophoto-issues/issues/268)
+* fix bug with widget blockquote font styles not being applied [#743](https://github.com/netrivet/prophoto-issues/issues/743)
+* fix rare tile rendering bugs when a plugin strips html comments
+* fix sizing bugs with thumbnail galleries having height constraint
+* trigger mobile menu to close when clicking a link with a hash
+* add some default styling to `<dl>`, `<table>`, and `<address>` tags
+
 ### 6.18.2
 
 Bugfixes (4/19/17)

@@ -1,5 +1,13 @@
 # Changelog
 
+### 6.19.1
+
+Bugfixes (5/5/17)
+
+* fix php warnings from plugin widgets introduced in `6.19.0`
+* ensure plugin widgets support new widget animation feature
+* don't incorrectly show widget animation options for call-to-action items
+
 ### 6.19.0
 
 New features -- [Blog post](https://pro.photo/blog/prophoto-6-19-0) (5/3/17)

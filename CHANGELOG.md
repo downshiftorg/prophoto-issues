@@ -4,7 +4,7 @@
 
 Bugfixes (5/9/17)
 
-* fix php warnings in widgets admin scrren introduced in `6.19.0`
+* fix php warnings in widgets admin screen introduced in `6.19.0`
 * fix inability to edit embedded ProPhoto galleries due to change in TinyMCE in WordPress `4.7.4`
 * fix _slide_ style widget transition animations on Safari when also rendering a sticky block
 * fix form placeholder selected font style not taking effect

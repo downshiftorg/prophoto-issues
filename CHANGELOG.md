@@ -1,5 +1,13 @@
 # Changelog
 
+### 6.19.3
+
+Bugfixes (5/10/17)
+
+* fix gallery sizing problem introduced in recent build
+* fix PHP warning with numbered pagination when not enough posts to require pagination
+* add safeguards to prevent rare fatal errors running template inheritance repair migration
+
 ### 6.19.2
 
 Bugfixes (5/9/17)

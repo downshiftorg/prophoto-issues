@@ -1,5 +1,22 @@
 # Changelog
 
+### 6.20.0
+
+New free designs & features -- [Blog post](https://pro.photo/blog/prophoto-6-20-0) (5/18/17)
+
+* **New feature:** [Agency](https://pro.photo/design/agency/demo) -- new free included starter design [#745](https://github.com/netrivet/prophoto-issues/issues/745)
+* **New feature:** [Creative](https://pro.photo/design/creative/demo) -- new free included starter design [#745](https://github.com/netrivet/prophoto-issues/issues/745)
+* **New feature:** [New Age](https://pro.photo/design/new-age/demo) -- new free included starter design [#745](https://github.com/netrivet/prophoto-issues/issues/745)
+* **New feature:** gallery image label overlays _(number or filename)_
+* **New feature:** window-height block row alignment _(top, center, bottom, or spread)_
+* **New feature:** control auto-updating preference and allow trigging of forced update [#570](https://github.com/netrivet/prophoto-issues/issues/570)
+* **New feature:** block/row/column scroll-to links can be appended to _home_ and _page_ menu items
+* support columns having top/bottom padding greater than 50%
+* fix responsive breakpoint inheriting settings not always reflected on site front layout
+* fix bug with tile shape layer border-radius
+* fix bug with horizontal menu alignment using new _Custom Text_ menu item from `6.19.0`
+* fix rendering of Pinterest _pin-any_ call-to-action link text
+
 ### 6.19.3
 
 Bugfixes (5/10/17)

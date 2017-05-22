@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.20.1
+
+Bugfix (5/22/17)
+
+* prevent fatal error for proofing plugin users updating to `6.20.x` who haven't recently logged-in
+
 ### 6.20.0
 
 New free designs & features -- [Blog post](https://pro.photo/blog/prophoto-6-20-0) (5/18/17)

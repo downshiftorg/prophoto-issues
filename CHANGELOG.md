@@ -1,5 +1,12 @@
 # Changelog
 
+### 6.20.2
+
+WP 4.8 Compat (6/6/17)
+
+* ensure compatibility with WordPress 4.8, due for release soon
+* fix graphic selects components overridable when inheriting [#758](https://github.com/netrivet/prophoto-issues/issues/758)
+
 ### 6.20.1
 
 Bugfix (5/22/17)

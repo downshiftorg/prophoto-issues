@@ -1,5 +1,12 @@
 # Changelog
 
+### 6.20.3
+
+Bugfixes (6/16/17)
+
+* fix flexbox rendering bug in Firefox (PC) for full-height blocks
+* fix auto-starting slideshows in old versions of Safari
+
 ### 6.20.2
 
 WP 4.8 Compat (6/6/17)

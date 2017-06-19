@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.20.4
+
+Bugfix (6/19/17)
+
+* fix build error in `6.20.3` causing ProPhoto admin Settings page errors and other admin javascript problems
+
 ### 6.20.3
 
 Bugfixes (6/16/17)

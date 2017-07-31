@@ -1,5 +1,13 @@
 # Changelog
 
+### 6.20.5
+
+Bugfixes & support enhancements (7/31/17)
+
+* fix bug with font styles not being correctly applied to form dropdown elements
+* fix new Firefox flexbox bug with full-height blocks and aligned rows
+* added support helpers for quicker diagnostics and support replies
+
 ### 6.20.4
 
 Bugfix (6/19/17)

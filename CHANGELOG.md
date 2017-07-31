@@ -1,12 +1,21 @@
 # Changelog
 
-### 6.20.5
+### 6.20.6
 
 Bugfixes & support enhancements (7/31/17)
 
 * fix bug with font styles not being correctly applied to form dropdown elements
 * fix new Firefox flexbox bug with full-height blocks and aligned rows
 * added support helpers for quicker diagnostics and support replies
+
+### 6.20.5
+
+Bugfixes (7/10/17)
+
+* remove babel polyfill to prevent errors from new version of Yoast
+* restore support for lists in P6 text widget
+* update initial activation welcome video
+* allow plugins to prevent P6 javascript from loading
 
 ### 6.20.4
 

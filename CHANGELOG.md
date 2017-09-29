@@ -1,5 +1,21 @@
 # Changelog
 
+### 6.21.0
+
+New features -- [Blog post](https://pro.photo/blog/prophoto-6-21-0) (10/2/17)
+
+* **New feature:** Customize ProPhoto gallery permalink slug [#798](https://github.com/netrivet/prophoto-issues/issues/798)
+* **New feature:** Control ProPhoto galleries with arrow keys [#218](https://github.com/netrivet/prophoto-issues/issues/218)
+* **New feature:** Display post author name & link in post header or footer [#595](https://github.com/netrivet/prophoto-issues/issues/595)
+* **New feature:** Optionally disable swipe-to-open functionality for mobile menu [#622](https://github.com/netrivet/prophoto-issues/issues/622)
+* *Enhancement:* Ajax-loaded gallery images now fully support WordPress-driven alt text [#737](https://github.com/netrivet/prophoto-issues/issues/737)
+* *Enhancement:* Set a unique background color for footer copyright area only [#391](https://github.com/netrivet/prophoto-issues/issues/391)
+* *Enhancement:* Remove outdated rich structured markup to easily support plugins focused on that domain [#796](https://github.com/netrivet/prophoto-issues/issues/796)
+* removed confusing fallback horizontal menu used when no menu widgets present [#775](https://github.com/netrivet/prophoto-issues/issues/775)
+* default is now for ProPhoto page-caching to be _enabled_
+* fix bug where page cache did not expire when a new comment was added
+* fix bug with WordPress `4.8.2` that can cause fatal error in customizer
+
 ### 6.20.6
 
 Bugfixes & support enhancements (7/31/17)

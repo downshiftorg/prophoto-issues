@@ -1,5 +1,24 @@
 # Proofing Changelog
 
+### 6.0.17
+
+Bugfix (10/5/17)
+
+* fix bug causing errors adding images to packages between sibling galleries
+
+### 6.0.16
+
+Bugfix (5/17/17)
+
+* guard against rare fatal error from corrupt data
+
+### 6.0.15
+
+Bugfix (4/27/17)
+
+* fix slightly incorrect auto-update timing logic
+* compatibility fix for ProPhoto `6.20.x`
+
 ### 6.0.14
 
 Bugfixes (4/19/17)

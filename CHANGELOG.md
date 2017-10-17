@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.21.1
+
+Bugfix (10/17/17)
+
+* fix a bug with customization inheritance between templates caused by WordPress security update `4.8.2`
+
 ### 6.21.0
 
 New features -- [Blog post](https://pro.photo/blog/prophoto-6-21-0) (10/2/17)

@@ -1,5 +1,12 @@
 # Changelog
 
+### 6.21.2
+
+WP 4.9.0 Compat & Bugfix (10/24/17)
+
+* prevent errors from changes introduced by WordPress in `4.9.0`
+* fix display bug with slide-up style overlay grids having excerpt text or read-more links
+
 ### 6.21.1
 
 Bugfix (10/17/17)

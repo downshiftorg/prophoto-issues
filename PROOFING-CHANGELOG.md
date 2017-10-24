@@ -1,5 +1,18 @@
 # Proofing Changelog
 
+### 6.0.19
+
+Bugfixes (10/24/17)
+
+* fix failure to obey "bypass shipping" gallery setting
+* don't display admin "send all images" button for parent galleries
+
+### 6.0.18
+
+WP 4.9.0 Compat (10/19/17)
+
+* prevent errors from changes introduced by WordPress in `4.9.0`
+
 ### 6.0.17
 
 Bugfix (10/5/17)

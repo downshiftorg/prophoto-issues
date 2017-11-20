@@ -1,5 +1,13 @@
 # Changelog
 
+### 6.21.3
+
+Bugfixes & enhancements (11/21/17)
+
+* fix post/page template assignments not accounting for customizing vs. live design
+* show more descriptive error messages for registration failures
+* allow plugins to prevent ProPhoto from inserting missing content image database records
+
 ### 6.21.2
 
 WP 4.9.0 Compat & Bugfix (10/24/17)

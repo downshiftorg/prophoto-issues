@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.21.4
+
+Bugfix (11/29/17)
+
+* guard against very rare scenario where template assignments get corrupted from `6.21.3` migration
+
 ### 6.21.3
 
 Bugfixes & enhancements (11/21/17)

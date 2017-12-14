@@ -10,6 +10,7 @@ Bugfixes & enhancements (12/15/17)
 * prevent customizer stuck on loading graphic in rare scenarios where WPML has been de-activated
 * clarify in customizer that video backgrounds don't work on phones
 * fix ios fixed/scroll override on columns
+* fix bug that could prevent form validation message font style to not correctly apply
 * prevent rare bug caused by plugins or services injecting unexpected script tags inside of grids
 
 ### 6.21.4

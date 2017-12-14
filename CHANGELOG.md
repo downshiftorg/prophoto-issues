@@ -1,5 +1,17 @@
 # Changelog
 
+### 6.21.5
+
+Bugfixes & enhancements (12/15/17)
+
+* ignore non-public taxonomies (like Yoast's "Prominent SEO words") for template assignments in customizer
+* try to prevent some false-positive warnings from security plugins regarding usage of base64_en/decode
+* add extra safeguard for extremely rare bug where all text widgets dissappear due to serialized data corruption
+* prevent customizer stuck on loading graphic in rare scenarios where WPML has been de-activated
+* clarify in customizer that video backgrounds don't work on phones
+* fix ios fixed/scroll override on columns
+* prevent rare bug caused by plugins or services injecting unexpected script tags inside of grids
+
 ### 6.21.4
 
 Bugfix (11/29/17)

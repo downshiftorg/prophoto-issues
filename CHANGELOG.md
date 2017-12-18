@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.21.6
+
+Bugfix
+
+* fix bug caused by a recent WordPress update that can prevent customizations from saving correctly
+
 ### 6.21.5
 
 Bugfixes & enhancements (12/15/17)

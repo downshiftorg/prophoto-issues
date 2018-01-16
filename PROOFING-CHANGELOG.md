@@ -295,7 +295,7 @@ Bugfixes (6/22/16)
 
 * fix "from" address for emails sent to users after manual payment submission
 * ensure child galleries respect their _order_ numbers
-* fix non-displaying product "package" images [#597](https://github.com/netrivet/prophoto-issues/issues/597)
+* fix non-displaying product "package" images [#597](https://github.com/downshiftorg/prophoto-issues/issues/597)
 * fix password shortcode forms not working when not logged in
 * fix percentage-based auto-discounts on galleries
 * show number of items control for recent proofing galleries grid type
@@ -304,7 +304,7 @@ Bugfixes (6/22/16)
 
 Bugfix (6/16/16)
 
-* Fix improperly rendering gallery thumbnails when set to "cropped" [#584](https://github.com/netrivet/prophoto-issues/issues/584)
+* Fix improperly rendering gallery thumbnails when set to "cropped" [#584](https://github.com/downshiftorg/prophoto-issues/issues/584)
 
 ### 6.0.0-beta8
 

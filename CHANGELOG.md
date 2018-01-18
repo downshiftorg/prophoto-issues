@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.21.7
+
+Bugfix
+
+* fix problem with ProPhoto text widget turning same-domain links into relative urls after recent WordPress update
+
 ### 6.21.6
 
 Bugfix

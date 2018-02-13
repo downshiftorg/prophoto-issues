@@ -1,5 +1,15 @@
 # Changelog
 
+### 6.21.8
+
+Bugfixes & enhancements
+
+* fix rare problem (usually on Dreamhost) with varnish cache and WordPress content not updating
+* allow plugin to disable inclusion of Facebook javascript
+* support new WooCommerce gallery type
+* fix broken appearance of "Customize" button on P6 theme block in "Appearance" > "Themes" page
+* add button to manually clear Instagram cache
+
 ### 6.21.7
 
 Bugfix

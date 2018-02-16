@@ -1,8 +1,15 @@
 # Changelog
 
+### 6.21.9
+
+Bugfixes (2/16/18)
+
+* Fix a bug with thumbnail galleries when closing full-window mode and re-clicking same image
+* Prevent slight grid rendering problem caused by CloudFlare injecting script tags into grid markup
+
 ### 6.21.8
 
-Bugfixes & enhancements
+Bugfixes & enhancements (2/12/18)
 
 * fix rare problem (usually on Dreamhost) with varnish cache and WordPress content not updating
 * allow plugin to disable inclusion of Facebook javascript

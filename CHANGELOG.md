@@ -1,5 +1,26 @@
 # Changelog
 
+### 6.21.12
+
+Enhancement (7/31/18)
+
+* Adding a remote JS file to admin pages for easier messaging
+
+### 6.21.11
+
+Bugfixes & enhancements (5/24/18)
+
+* (GDPR compliance) Added opt-in checkbox for cookies in comment form
+* Fixed bug causing forms with a Tile submit button containing an image to submit twice
+
+### 6.21.10
+
+Bugfixes & enhancements (5/3/18)
+
+* Changes for compatability with PHP 7.2
+* Change in Instagram API requires us to keep requesting images until we have enough
+* Improved font rendering in Firefox
+
 ### 6.21.9
 
 Bugfixes (2/16/18)

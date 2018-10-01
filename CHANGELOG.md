@@ -1,5 +1,12 @@
 # Changelog
 
+### 6.21.13
+
+Updates (10/1/18)
+
+* Updated background videos to auto-play after browser updates require "mute" parameter 
+* Upated Instagram authentication process after change in Instagram API
+
 ### 6.21.12
 
 Enhancement (7/31/18)

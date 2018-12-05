@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.21.14
+
+WordPress 5 and Gutenberg (12/5/18)
+
+* Adding compatibility for the Gutenberg plugin and WordPress 5
+
 ### 6.21.13
 
 Updates (10/1/18)

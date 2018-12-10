@@ -1,5 +1,11 @@
 # Changelog
 
+### 6.21.15
+
+Another WordPress 5 update (12/6/18)
+
+* Adding compatibility for users on WordPress 5 and using the classic editor plugin
+
 ### 6.21.14
 
 WordPress 5 and Gutenberg (12/5/18)

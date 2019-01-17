@@ -1,5 +1,14 @@
 # Changelog
 
+### 6.21.16
+
+Additional bugfixes related to WordPress 5
+
+* Updated content image alignment to work with WordPress 5 image block
+* Worked around conflict with Yoast SEO plugin (and possibly others) in editor/customizer
+* Fixes classic editor issue when toggling post/page editor containing a gallery between visual/text mode
+* Added warning for hitting upload filesize limit when importing a design
+
 ### 6.21.15
 
 Another WordPress 5 update (12/6/18)

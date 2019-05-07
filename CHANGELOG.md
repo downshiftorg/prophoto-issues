@@ -2,7 +2,7 @@
 
 ### 6.21.16
 
-Additional bugfixes related to WordPress 5
+Additional bugfixes related to WordPress 5 (1/17/19)
 
 * Updated content image alignment to work with WordPress 5 image block
 * Worked around conflict with Yoast SEO plugin (and possibly others) in editor/customizer
